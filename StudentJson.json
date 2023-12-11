@@ -1,7 +1,4 @@
-﻿{
-    "Full": [
-        {
-            "ID": "1",
+﻿{ { "ID": "1",
             "LastName": "DOE01",
             "FirstName": "JANE01",
             "City": "Los Angeles",
@@ -13,8 +10,7 @@
             "Age": "30",
             "SAT": "2263",
             "Grade ": "67",
-            "Height": "61"
-        },
+            "Height": "61" },
         {
             "ID": "2",
             "LastName": "DOE02",
@@ -449,6 +445,4 @@
             "SAT": "1907",
             "Grade ": "79",
             "Height": "74"
-        }
-    ]
-}
+        }}
