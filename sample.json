@@ -1,0 +1,4332 @@
+[
+  {
+    "school_name": "Henderson LLC",
+    "location": {
+      "city": "South David",
+      "state": "Oklahoma",
+      "zipcode": "26439"
+    },
+    "students": [
+      {
+        "student_id": "ea427067-2048-4dfb-9510-6c718db9b57b",
+        "name": "Dean Ruiz",
+        "grade": "C"
+      },
+      {
+        "student_id": "68994712-6484-4749-a8be-283f57566bb0",
+        "name": "Rebecca Leon",
+        "grade": "A"
+      },
+      {
+        "student_id": "8eb6d132-934c-4709-af36-5e864b77874d",
+        "name": "Maria Jones",
+        "grade": "B"
+      },
+      {
+        "student_id": "62d8013f-04f1-4cda-a8d3-9e0a1046d565",
+        "name": "Leslie Hart",
+        "grade": "C"
+      },
+      {
+        "student_id": "b1967c37-676c-4639-9c84-44ff867857ab",
+        "name": "Daniel Landry",
+        "grade": "C"
+      },
+      {
+        "student_id": "773b57e8-952d-4110-a3cf-e51a11489b12",
+        "name": "Albert Chavez",
+        "grade": "A"
+      },
+      {
+        "student_id": "b0a2df3d-0111-4ab5-9ec1-82cf234190b7",
+        "name": "Linda Petersen",
+        "grade": "A"
+      },
+      {
+        "student_id": "308ede97-f396-4342-a224-cb89247badd7",
+        "name": "Elizabeth Ross DDS",
+        "grade": "A"
+      },
+      {
+        "student_id": "c7f32525-7363-4739-b9ca-da1fbdec2fa8",
+        "name": "Marissa Harris",
+        "grade": "B"
+      },
+      {
+        "student_id": "d7138d87-6c52-4f0f-b3e1-c0fbbca49252",
+        "name": "Jessica Mcdonald",
+        "grade": "C"
+      },
+      {
+        "student_id": "3d43d9e1-e9bf-480a-916d-05ffcd172cef",
+        "name": "Melissa Galvan",
+        "grade": "A"
+      },
+      {
+        "student_id": "eb0f3582-03b1-4234-a767-c62695deebd0",
+        "name": "Stefanie Vasquez",
+        "grade": "C"
+      },
+      {
+        "student_id": "bd65d39b-8c9a-435e-a2db-09cd123e93ed",
+        "name": "Ashley Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "b5dededb-0ec0-43b8-a181-6fbabd4fdc30",
+        "name": "Nicole Simpson",
+        "grade": "B"
+      },
+      {
+        "student_id": "ba6ff67e-fd47-4b68-b7b4-30e0fb4c5605",
+        "name": "Steven Howard",
+        "grade": "C"
+      },
+      {
+        "student_id": "39df829a-10bf-413a-9682-1530bf5e1a2c",
+        "name": "Angela Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "8237f6bf-2887-46cd-87a9-8db18e7d4e38",
+        "name": "Erin Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "f9901354-a741-46bc-8da9-9f3b2590307a",
+        "name": "Derrick Pearson",
+        "grade": "B"
+      },
+      {
+        "student_id": "b5fa23c8-6ccb-43d8-bd01-c57670437047",
+        "name": "Jamie Barker",
+        "grade": "A"
+      },
+      {
+        "student_id": "631dacc0-1992-4c44-98f7-84fd04199968",
+        "name": "Todd Schroeder",
+        "grade": "A"
+      },
+      {
+        "student_id": "60a9c0ec-97ad-4c26-9c0a-99c1ffd0f4ee",
+        "name": "Robert Thomas",
+        "grade": "B"
+      },
+      {
+        "student_id": "16303dc2-1973-4fd4-a630-f7604723a9ed",
+        "name": "Anthony Green",
+        "grade": "C"
+      },
+      {
+        "student_id": "3615066d-c340-4093-a96b-d8599d406a5c",
+        "name": "Michael Mcdowell",
+        "grade": "B"
+      },
+      {
+        "student_id": "37e35b82-9dd4-40c9-9a83-614fcd89112f",
+        "name": "Ashley Taylor",
+        "grade": "C"
+      },
+      {
+        "student_id": "d3f09471-a552-4eea-829e-e03b4fe7973b",
+        "name": "Amy Morrow",
+        "grade": "B"
+      },
+      {
+        "student_id": "0fe9c7d0-95d5-43e6-8888-2bdda47fa14d",
+        "name": "Jacob Elliott",
+        "grade": "A"
+      },
+      {
+        "student_id": "11a814f4-c214-453a-ac4d-3a76128557dd",
+        "name": "Daniel Harris",
+        "grade": "A"
+      },
+      {
+        "student_id": "9c3104fc-b370-4c1c-8643-73db7aaa429d",
+        "name": "Jeffrey Barton",
+        "grade": "B"
+      },
+      {
+        "student_id": "e01d7b24-c112-4fc0-8845-8480c4a77126",
+        "name": "Steven Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "c17cdb08-2d62-4026-84d7-be4d33c1b167",
+        "name": "Derek Banks",
+        "grade": "C"
+      },
+      {
+        "student_id": "70fe7ab0-987b-4cf8-9317-f2f900e932e5",
+        "name": "Maria Gallegos",
+        "grade": "B"
+      },
+      {
+        "student_id": "7b6df306-a7f2-467f-8ca1-fde43c6ccec1",
+        "name": "Dylan Mcfarland",
+        "grade": "A"
+      },
+      {
+        "student_id": "08a1ce8e-b788-4da1-9602-c41e521af483",
+        "name": "Jamie Buchanan",
+        "grade": "C"
+      },
+      {
+        "student_id": "d0ac2a69-12b7-48b0-ab2a-680fbfd378c7",
+        "name": "Randall Pruitt",
+        "grade": "B"
+      },
+      {
+        "student_id": "eeb705a2-ec85-4aad-bebd-0b0f70a4efd9",
+        "name": "Regina Johnson",
+        "grade": "C"
+      },
+      {
+        "student_id": "79f6065c-4474-46df-9ab4-c55563d7aedf",
+        "name": "Richard Carroll",
+        "grade": "C"
+      },
+      {
+        "student_id": "2987d50f-cd01-43b4-bf0a-3d82dcaa2094",
+        "name": "William Rivera",
+        "grade": "B"
+      },
+      {
+        "student_id": "84778158-eae9-46ac-8ee1-7f112c850059",
+        "name": "Tristan Ryan",
+        "grade": "A"
+      },
+      {
+        "student_id": "01d81b72-a0be-4f4d-b686-8c2dd0f19196",
+        "name": "Daniel Pugh",
+        "grade": "C"
+      },
+      {
+        "student_id": "f1a13789-5dd6-460e-a3c6-b14de884914a",
+        "name": "Dr. Victoria Fisher",
+        "grade": "A"
+      },
+      {
+        "student_id": "cf951372-b784-4da2-bd8b-70928d21498c",
+        "name": "Cristina Wang",
+        "grade": "B"
+      },
+      {
+        "student_id": "f847d9f8-102a-42b8-af32-0220c6d06e9a",
+        "name": "Ashlee Frazier",
+        "grade": "C"
+      },
+      {
+        "student_id": "f4d0e494-8651-4e77-a8c9-113adc8c7c0f",
+        "name": "Brian Mayer",
+        "grade": "C"
+      },
+      {
+        "student_id": "5a151cbe-6ac6-4f76-8323-e598b3ef5196",
+        "name": "Elizabeth Moore",
+        "grade": "A"
+      },
+      {
+        "student_id": "38e20305-a1d3-4b30-8b61-99638f8390be",
+        "name": "Tony Figueroa",
+        "grade": "B"
+      },
+      {
+        "student_id": "acc8689d-d4ff-46ae-806e-99a2866b3a52",
+        "name": "Charles Lopez",
+        "grade": "C"
+      },
+      {
+        "student_id": "4f56c67c-ffa5-4f50-9e55-e238ba611f85",
+        "name": "Michael Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "acc9e708-fce8-4bbe-9ee6-5b633f100a23",
+        "name": "Zachary Mueller",
+        "grade": "B"
+      },
+      {
+        "student_id": "f98d2a95-b071-463a-badb-af49f7d3281d",
+        "name": "Morgan Flores",
+        "grade": "B"
+      },
+      {
+        "student_id": "4bade927-053e-45c2-a93d-0db7bbd29c18",
+        "name": "Julie Cox",
+        "grade": "B"
+      },
+      {
+        "student_id": "2093a6c0-babe-4f99-b4c6-188bfb4a1a63",
+        "name": "Frederick Hoffman",
+        "grade": "B"
+      },
+      {
+        "student_id": "4d7b9742-c5c6-4b6b-8f7b-9cc7daba65f4",
+        "name": "Omar King",
+        "grade": "A"
+      },
+      {
+        "student_id": "13bf0846-2c82-499d-82e6-0f6788be84bc",
+        "name": "William Bennett",
+        "grade": "B"
+      },
+      {
+        "student_id": "0ec7a344-2e35-4d89-bca1-5b6ee6dea339",
+        "name": "Benjamin Reynolds",
+        "grade": "B"
+      },
+      {
+        "student_id": "8d09e653-d676-46ff-bd36-1fe5e6226172",
+        "name": "Michelle Wright",
+        "grade": "B"
+      },
+      {
+        "student_id": "9d57a91f-fe59-4bc4-8bc3-626c698323bf",
+        "name": "Patrick Fry",
+        "grade": "A"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "7ada1b29-6dd5-4ed5-915b-522976460750",
+        "name": "Beth Parker",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "ab33e4af-24d4-48a1-8b2c-45f9f2502ee8",
+        "name": "Robert Marsh",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "3efb3f96-577b-4053-bff9-1bf51e407c52",
+        "name": "Jimmy Harrison",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "ad7367a4-e740-4057-80b7-fdd94b37f11a",
+        "name": "Robert Fernandez",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "9901f787-06b4-432a-94e1-13367137d682",
+        "name": "Larry Richards",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "ff9cb4b1-b10e-416f-a93b-93ffbd799584",
+        "name": "Ryan Frederick",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "66330af4-3d0d-450e-acca-869a9f90d43c",
+        "name": "Jeffrey Baxter",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "cd8353a5-9405-4d7b-b9e0-bea926501653",
+        "name": "Ronald Le",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "b3a10e12-c1c3-4b06-9f50-08c4ddcd660e",
+        "name": "Joshua Henderson",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "8625c032-ca39-4576-a528-ba0d44ad9a36",
+        "name": "Andrew Schwartz",
+        "subject": "Science"
+      }
+    ],
+    "facilities": {
+      "classrooms": 12,
+      "gymnasium": false,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Murray-Taylor",
+    "location": {
+      "city": "Walkermouth",
+      "state": "Oklahoma",
+      "zipcode": "53899"
+    },
+    "students": [
+      {
+        "student_id": "868147ab-eb7c-4ef6-948f-d2f741ce2012",
+        "name": "Eddie Lee",
+        "grade": "B"
+      },
+      {
+        "student_id": "e043265c-4016-41bb-b375-470ed6591c81",
+        "name": "Ronald Gray",
+        "grade": "C"
+      },
+      {
+        "student_id": "6713b7ad-c036-4444-98cc-dd855a3042dd",
+        "name": "James Long",
+        "grade": "A"
+      },
+      {
+        "student_id": "c83dd1c4-c365-4316-9bb8-885a91e7f6db",
+        "name": "Julie Jordan",
+        "grade": "B"
+      },
+      {
+        "student_id": "f277dd4a-5585-4d42-a692-fa661823cec8",
+        "name": "Richard Stewart",
+        "grade": "A"
+      },
+      {
+        "student_id": "84ac2898-66dd-4c2e-bc1d-ecfab94bec87",
+        "name": "Nicole Lawson",
+        "grade": "B"
+      },
+      {
+        "student_id": "b644ed33-f41c-4c47-b348-c30da2c27df0",
+        "name": "Jason Powers",
+        "grade": "A"
+      },
+      {
+        "student_id": "9f4e0655-fc0c-4f76-a8c0-a0a03f638239",
+        "name": "Madison Murray",
+        "grade": "A"
+      },
+      {
+        "student_id": "f7fa4c45-3923-4466-b3d1-51d829400ade",
+        "name": "Lisa Rodriguez",
+        "grade": "C"
+      },
+      {
+        "student_id": "cacb48cf-376c-408d-bb23-2b6b649c1fcb",
+        "name": "Michele Johnston",
+        "grade": "B"
+      },
+      {
+        "student_id": "da3f2da3-7f90-44bf-ad1e-90242a7236ff",
+        "name": "Michelle Leach",
+        "grade": "B"
+      },
+      {
+        "student_id": "ee4aa353-0538-496f-9fb9-34dc9c67ceee",
+        "name": "Michael Nguyen",
+        "grade": "B"
+      },
+      {
+        "student_id": "65830c13-dced-4598-af94-eaa5cf309df8",
+        "name": "Carrie Valencia",
+        "grade": "B"
+      },
+      {
+        "student_id": "9d29ebb3-8cc5-4105-9119-cf767c99844c",
+        "name": "Robert Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "db150958-5c2a-4b6c-90e0-300483b29bbe",
+        "name": "Catherine Reynolds",
+        "grade": "B"
+      },
+      {
+        "student_id": "0b8ea31f-0d9e-44c5-921d-a23a312d4dbf",
+        "name": "Gary Patel",
+        "grade": "A"
+      },
+      {
+        "student_id": "e2b6e621-d810-48d2-991a-e31dcb2d139b",
+        "name": "Reginald Simpson",
+        "grade": "B"
+      },
+      {
+        "student_id": "71ce2e63-fa08-4e77-a193-c983d6fc2c9d",
+        "name": "Nathan Hawkins",
+        "grade": "C"
+      },
+      {
+        "student_id": "5aace0f6-3d04-4c49-83cc-ab5f0be6ded7",
+        "name": "Lauren Whitaker",
+        "grade": "A"
+      },
+      {
+        "student_id": "f96dd01b-22f5-4448-b1f3-79203621bd10",
+        "name": "John Holmes",
+        "grade": "C"
+      },
+      {
+        "student_id": "6585b6ab-a112-440d-a948-0fbd723bd3cf",
+        "name": "David Marshall",
+        "grade": "B"
+      },
+      {
+        "student_id": "b58eca8b-1223-4528-8522-de158991cd89",
+        "name": "Ryan Rogers",
+        "grade": "C"
+      },
+      {
+        "student_id": "04a9150b-75d3-45c3-b8f0-f1040369aa6c",
+        "name": "Brandon Brown",
+        "grade": "A"
+      },
+      {
+        "student_id": "370cce2d-a36b-4ba7-8ded-329d74373a18",
+        "name": "Deborah Griffin",
+        "grade": "A"
+      },
+      {
+        "student_id": "b1b1fef8-bb97-464c-ab2c-08f0546085c5",
+        "name": "Tamara Lopez",
+        "grade": "C"
+      },
+      {
+        "student_id": "2d3be65a-5da6-4a76-b96b-357511a55aba",
+        "name": "Jordan Garcia",
+        "grade": "C"
+      },
+      {
+        "student_id": "8a042a6c-f543-4ee0-a9a7-544ff70c3d60",
+        "name": "Louis Wright",
+        "grade": "A"
+      },
+      {
+        "student_id": "2261be28-f3f6-4951-9e52-5e25d41a9395",
+        "name": "Tammy Osborne",
+        "grade": "A"
+      },
+      {
+        "student_id": "e8fc550b-2a69-4386-b9d8-4636219c5536",
+        "name": "Bradley Lopez",
+        "grade": "A"
+      },
+      {
+        "student_id": "0e0959f6-67ec-49ab-b4fe-5cd9e789128a",
+        "name": "Matthew Maxwell MD",
+        "grade": "A"
+      },
+      {
+        "student_id": "8dfa8df8-7ae2-4f18-a769-d44f8ba7f4c3",
+        "name": "Lucas Lopez",
+        "grade": "C"
+      },
+      {
+        "student_id": "3db45298-da93-401e-9e0b-4d7510e06071",
+        "name": "Erik Morgan",
+        "grade": "A"
+      },
+      {
+        "student_id": "1b482a26-174b-4929-a367-05bed2f9c7f3",
+        "name": "Sara Sandoval",
+        "grade": "B"
+      },
+      {
+        "student_id": "249e1c28-8723-4a2d-b80b-709dd55b956b",
+        "name": "Mark Ryan",
+        "grade": "A"
+      },
+      {
+        "student_id": "95d66407-b0e8-42a8-8716-6298f6bda875",
+        "name": "Ashley Green",
+        "grade": "C"
+      },
+      {
+        "student_id": "bd9035b6-2aa6-45bd-b561-6883ba260b49",
+        "name": "Mark Trevino",
+        "grade": "C"
+      },
+      {
+        "student_id": "81f65dd9-ea73-44f2-b804-a3a066d77254",
+        "name": "Connie Richard",
+        "grade": "A"
+      },
+      {
+        "student_id": "ccbee56e-809a-43e4-8de0-403859a2554e",
+        "name": "Mr. Darrell Boyd",
+        "grade": "B"
+      },
+      {
+        "student_id": "b0414581-45d3-4bc5-992e-bdfffbc96df2",
+        "name": "Walter Williams",
+        "grade": "C"
+      },
+      {
+        "student_id": "2932ff72-0265-45f6-9ae6-a237dd158426",
+        "name": "Sarah Hall",
+        "grade": "A"
+      },
+      {
+        "student_id": "6b939588-3288-4575-abb3-2f2960591e42",
+        "name": "Randy Davis",
+        "grade": "C"
+      },
+      {
+        "student_id": "e1627453-bcb0-4d13-b982-994a47a741c3",
+        "name": "Angela Sanchez",
+        "grade": "B"
+      },
+      {
+        "student_id": "f43d9948-5f1c-4df9-9819-3194ec1482b7",
+        "name": "Mia Mckinney",
+        "grade": "C"
+      },
+      {
+        "student_id": "3723ef3e-6b07-4021-bb5f-35a5ffe1fef0",
+        "name": "Alexis Lopez",
+        "grade": "B"
+      },
+      {
+        "student_id": "a25ca3ac-3d8b-4673-808e-2f12ad88daef",
+        "name": "Evelyn Sullivan",
+        "grade": "C"
+      },
+      {
+        "student_id": "6bc301fb-8ea4-49aa-976d-27a7af683c0a",
+        "name": "Carrie Taylor",
+        "grade": "B"
+      },
+      {
+        "student_id": "84537bcb-165e-49d2-be6f-64fc3f57c09c",
+        "name": "Leslie Pena",
+        "grade": "B"
+      },
+      {
+        "student_id": "b3e1ae53-1225-43d5-92c2-61de8538e0d4",
+        "name": "Samuel Johnson",
+        "grade": "B"
+      },
+      {
+        "student_id": "7ee37cfb-a815-4277-a06b-06c74d04e7cf",
+        "name": "Robert Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "0de81f39-8c3e-42de-8ebc-c0872bebb86d",
+        "name": "Mark Estrada",
+        "grade": "A"
+      },
+      {
+        "student_id": "5b56349d-aeed-46a5-b374-e1521b4930fa",
+        "name": "James Price",
+        "grade": "B"
+      },
+      {
+        "student_id": "e5548a15-9a78-42a6-b4fc-538a0d253d70",
+        "name": "Melissa Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "273bd298-808c-4b2f-a978-2fef3d9eca0e",
+        "name": "Jeffrey Patrick",
+        "grade": "C"
+      },
+      {
+        "student_id": "ea055e04-076d-4a66-b0c3-d6630aae7be8",
+        "name": "William Vincent",
+        "grade": "C"
+      },
+      {
+        "student_id": "5e9ecfba-20a2-4c0f-9dbe-73cddc74881c",
+        "name": "Alicia Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "05b20add-f845-4abd-91a2-8e2fd508a129",
+        "name": "Connor Rose",
+        "grade": "A"
+      },
+      {
+        "student_id": "6c535935-697e-4600-b6da-d000b8c797d2",
+        "name": "Anthony Thompson",
+        "grade": "C"
+      },
+      {
+        "student_id": "b728d277-4710-49d8-b9c8-00eddab57ffd",
+        "name": "Kyle Boyd",
+        "grade": "A"
+      },
+      {
+        "student_id": "bdb2319e-a4d2-47d4-aff2-916e104d73c0",
+        "name": "Alexander Wright",
+        "grade": "C"
+      },
+      {
+        "student_id": "3eab736a-8abc-4e9c-bfd5-32daa9660ea6",
+        "name": "Stephen Sutton",
+        "grade": "B"
+      },
+      {
+        "student_id": "ef1b871e-cc91-4454-be3a-676959543071",
+        "name": "Denise Weiss",
+        "grade": "B"
+      },
+      {
+        "student_id": "de554d18-ec13-4ee3-8df6-a5101e771a10",
+        "name": "Gabriel Boyer",
+        "grade": "A"
+      },
+      {
+        "student_id": "d110aa1d-9d3b-4a96-b3a1-68863667b304",
+        "name": "Shawna Harrison",
+        "grade": "B"
+      },
+      {
+        "student_id": "a855ac73-bc1d-41b6-b5b7-f44ac85f4c52",
+        "name": "Jeffrey Park",
+        "grade": "A"
+      },
+      {
+        "student_id": "c2c4e27c-46ed-4479-bacb-e67185d4b06c",
+        "name": "Molly Cervantes MD",
+        "grade": "A"
+      },
+      {
+        "student_id": "6b30a2a0-b4a5-47db-9188-0bc10c8bc981",
+        "name": "Billy Finley DDS",
+        "grade": "A"
+      },
+      {
+        "student_id": "8880c626-f668-46b4-b517-d638558a5c22",
+        "name": "Isabella Owens",
+        "grade": "C"
+      },
+      {
+        "student_id": "0c6cc4c8-9bb8-4387-b0ff-59043fdcaa8a",
+        "name": "Sherri Bennett",
+        "grade": "A"
+      },
+      {
+        "student_id": "eb925bd3-91dd-45fb-9c58-de7815e56e6a",
+        "name": "Brittany Sanders",
+        "grade": "A"
+      },
+      {
+        "student_id": "6150c341-06f1-47bf-8844-92f241b230b1",
+        "name": "Donna Hall",
+        "grade": "A"
+      },
+      {
+        "student_id": "393fa5ea-a664-48fb-b14c-643880352943",
+        "name": "Lindsay Perez",
+        "grade": "B"
+      },
+      {
+        "student_id": "79e618ea-958a-4e89-bb9d-b66b97dfb240",
+        "name": "Ryan Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "fc716d8b-517a-4dad-9b73-eafe79b56831",
+        "name": "Laura Dickerson",
+        "grade": "B"
+      },
+      {
+        "student_id": "d542e19b-a3f4-4068-9f7d-acf1e715957d",
+        "name": "Edward Murray",
+        "grade": "C"
+      },
+      {
+        "student_id": "6c02eeaf-a95e-4d77-a62e-c5c8b522ba74",
+        "name": "Miss Christine Ruiz",
+        "grade": "B"
+      },
+      {
+        "student_id": "d9cd21ae-514d-4672-b36a-86d407ab0b24",
+        "name": "Michael Joyce",
+        "grade": "B"
+      },
+      {
+        "student_id": "698686f5-28d2-494e-8b7d-6c2095d352a7",
+        "name": "Colleen Velasquez",
+        "grade": "B"
+      },
+      {
+        "student_id": "38d79e31-9f8b-4cba-8d30-57a2ed0cc89f",
+        "name": "Samantha Ramirez",
+        "grade": "B"
+      },
+      {
+        "student_id": "b442655e-dda7-4e4e-a838-674de22daa92",
+        "name": "Shawn Shaw",
+        "grade": "C"
+      },
+      {
+        "student_id": "43189f4d-4a7f-47f9-b2ec-8a592b1723fb",
+        "name": "Kevin Ramirez",
+        "grade": "C"
+      },
+      {
+        "student_id": "9c4170f5-1e92-491b-853d-ee7ea1947db3",
+        "name": "Alexis Pope",
+        "grade": "A"
+      },
+      {
+        "student_id": "4c0bc8d1-59a8-4289-9777-c3d0f3a62b36",
+        "name": "Laura Ochoa",
+        "grade": "B"
+      },
+      {
+        "student_id": "54ddf9b8-dd4a-41e2-ac5c-c5e2b718a2f5",
+        "name": "Brian Hamilton",
+        "grade": "B"
+      },
+      {
+        "student_id": "5c6f5f6e-554e-41f4-a1e9-99f981da2c92",
+        "name": "Tyler Baxter",
+        "grade": "C"
+      },
+      {
+        "student_id": "f622d3d3-8a51-4928-b836-32636d5ddf26",
+        "name": "Jason Crawford",
+        "grade": "C"
+      },
+      {
+        "student_id": "e5b7cfbb-f561-4e0c-97f2-ffc4a6bd93b9",
+        "name": "Courtney Cruz",
+        "grade": "B"
+      },
+      {
+        "student_id": "7cd65417-2b30-4626-bb32-51dc2afe95d0",
+        "name": "Mark Mckay",
+        "grade": "C"
+      },
+      {
+        "student_id": "a26deaa9-93f2-4305-b0e4-3af03997b18a",
+        "name": "Rebecca Mitchell",
+        "grade": "A"
+      },
+      {
+        "student_id": "fd1d5fae-80b1-428c-840e-1590830c3921",
+        "name": "Dr. James Andrade IV",
+        "grade": "B"
+      },
+      {
+        "student_id": "542956fd-2e96-4404-82d7-04469a24d5f6",
+        "name": "Jennifer Hernandez",
+        "grade": "B"
+      },
+      {
+        "student_id": "c46c8c92-38dc-422a-9390-86961413d6c2",
+        "name": "Jennifer Massey",
+        "grade": "C"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "57186315-28e7-4150-9091-f76cb83e311f",
+        "name": "Steven Cameron",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "f7453087-a866-41ef-8f29-06534d45187b",
+        "name": "Michael Thomas",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "162f7c43-1b44-4dd1-9b20-4ddc49e2ead8",
+        "name": "Sierra Lewis",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "39935ffc-53cd-4cbe-9c78-059d51416423",
+        "name": "Gregory Patel",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "f4847644-886f-49e9-84ea-550da6c770c1",
+        "name": "Jacqueline Jackson",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "62414dd5-24c8-4057-a4ea-836eb74e8f40",
+        "name": "Christopher Hoffman II",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "93d9bf0d-59f5-4fdf-a5f4-96528943930d",
+        "name": "Brett Stevens",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "6ad4e0f5-df38-4bfa-8a67-ed8cc2b5262b",
+        "name": "John Roberts",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "5c947baa-1b2e-499a-a8ec-306b8f921560",
+        "name": "Christopher Welch",
+        "subject": "Science"
+      }
+    ],
+    "facilities": {
+      "classrooms": 22,
+      "gymnasium": true,
+      "library": false
+    }
+  },
+  {
+    "school_name": "Rice Group",
+    "location": {
+      "city": "Jonesstad",
+      "state": "Maryland",
+      "zipcode": "96729"
+    },
+    "students": [
+      {
+        "student_id": "8e0575fb-8bfb-4f87-9bee-bfce9b98faeb",
+        "name": "Katelyn Kim",
+        "grade": "C"
+      },
+      {
+        "student_id": "6908cd23-711e-497a-ac63-28d8e3350f01",
+        "name": "Dylan Rojas",
+        "grade": "C"
+      },
+      {
+        "student_id": "69dc0d50-40a8-444b-b40d-916ccb38f895",
+        "name": "Cheryl Mccarthy",
+        "grade": "C"
+      },
+      {
+        "student_id": "b07d3fe1-4f86-45b6-9749-c3af1f1252dd",
+        "name": "Susan Hamilton",
+        "grade": "B"
+      },
+      {
+        "student_id": "31a0efbe-bb61-40a1-9062-8d679299e7a4",
+        "name": "Craig Ochoa",
+        "grade": "B"
+      },
+      {
+        "student_id": "456f2a16-18f9-41c0-8427-1b4d2b1ddba9",
+        "name": "Charlene Ritter",
+        "grade": "C"
+      },
+      {
+        "student_id": "f6a665d1-f9dc-4d24-a919-404f24768dfa",
+        "name": "Samantha Wilson",
+        "grade": "B"
+      },
+      {
+        "student_id": "d52776dd-9824-4d48-bb22-48c0f76000df",
+        "name": "Brad Lynn",
+        "grade": "C"
+      },
+      {
+        "student_id": "a99d275d-5a40-457a-baa1-702019683ab0",
+        "name": "Christina Velez",
+        "grade": "A"
+      },
+      {
+        "student_id": "f8dee4a0-b238-471f-8ada-c47558316149",
+        "name": "Michael Turner",
+        "grade": "C"
+      },
+      {
+        "student_id": "99f29517-379e-45ca-9d63-5f92fff7fe71",
+        "name": "Amy Hayes",
+        "grade": "A"
+      },
+      {
+        "student_id": "8e7191c0-8618-42e3-a769-0b835a3b999a",
+        "name": "Steven Howell",
+        "grade": "B"
+      },
+      {
+        "student_id": "ea57c035-981e-4813-bb9c-e635604755ed",
+        "name": "Tony Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "8ae028c0-016c-4247-a44e-1a48170d08e8",
+        "name": "Amanda Becker",
+        "grade": "A"
+      },
+      {
+        "student_id": "72380b0d-ab0c-4e7c-ae64-aca7e5f84f21",
+        "name": "Cynthia Avila",
+        "grade": "B"
+      },
+      {
+        "student_id": "d863405b-bd98-43d4-8b47-cd647e615120",
+        "name": "Mario Black",
+        "grade": "A"
+      },
+      {
+        "student_id": "61136983-61ef-42e7-99b6-6e0075fe1b6c",
+        "name": "Cody Shah",
+        "grade": "C"
+      },
+      {
+        "student_id": "9141af52-09ff-4405-87fc-3dff0d025c75",
+        "name": "Elizabeth Gutierrez",
+        "grade": "C"
+      },
+      {
+        "student_id": "f05e0060-76c6-419d-bdef-341cf290dec8",
+        "name": "Mary Cabrera",
+        "grade": "C"
+      },
+      {
+        "student_id": "4f21e3d6-a4e6-4030-ae21-eba2ed4594f0",
+        "name": "Christina Hamilton",
+        "grade": "A"
+      },
+      {
+        "student_id": "2e487be3-0a7c-4f2a-bd84-d932b815f13d",
+        "name": "Sonia Martinez",
+        "grade": "C"
+      },
+      {
+        "student_id": "577b05c9-cf35-4a7b-b633-515f6711ce6d",
+        "name": "Emily Brown",
+        "grade": "A"
+      },
+      {
+        "student_id": "336f7573-72f3-4601-bf16-78088b6c1018",
+        "name": "Lauren Horn",
+        "grade": "C"
+      },
+      {
+        "student_id": "72ae3667-e9e2-452a-bf84-dcfab41c888e",
+        "name": "Kelly Osborne",
+        "grade": "B"
+      },
+      {
+        "student_id": "25ed0671-f554-46dc-814a-fef03ef81ee9",
+        "name": "James Mullen",
+        "grade": "A"
+      },
+      {
+        "student_id": "dc9c1964-dab2-475a-bd34-cdc309daa7c5",
+        "name": "Gary Patrick",
+        "grade": "C"
+      },
+      {
+        "student_id": "728f0bff-bfb7-42d0-a961-ac8323b25b96",
+        "name": "Luis Forbes",
+        "grade": "C"
+      },
+      {
+        "student_id": "05cc8da1-ccb7-474f-9951-ae963835c96f",
+        "name": "Lisa Martinez",
+        "grade": "C"
+      },
+      {
+        "student_id": "3c5c32b7-4a3d-4859-8543-62e519a3d99d",
+        "name": "Christine Collins",
+        "grade": "A"
+      },
+      {
+        "student_id": "437e82fc-6ae5-4c8e-9477-556c4dabb646",
+        "name": "Brittany Scott",
+        "grade": "A"
+      },
+      {
+        "student_id": "3c117f45-1e4c-44d3-bf1c-907ee31e9e9e",
+        "name": "Brian Flores",
+        "grade": "B"
+      },
+      {
+        "student_id": "1ca8fe35-abcd-4607-9785-724bf7fe29e1",
+        "name": "Jessica Strickland",
+        "grade": "C"
+      },
+      {
+        "student_id": "08bc3e50-c2b5-49e2-8e5d-cc7dd2f96d14",
+        "name": "Jason Jacobs",
+        "grade": "C"
+      },
+      {
+        "student_id": "4bb9e118-a4f8-4001-ab80-33520913b074",
+        "name": "Bobby Martinez",
+        "grade": "C"
+      },
+      {
+        "student_id": "c454c268-060c-444d-9f2c-bf8b498245db",
+        "name": "Gary Rodriguez",
+        "grade": "B"
+      },
+      {
+        "student_id": "e0a2f12a-9509-4612-8533-ff861d093b47",
+        "name": "Lisa Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "495a94b2-9ae1-4395-ba96-9304027f0515",
+        "name": "Rebecca Young",
+        "grade": "B"
+      },
+      {
+        "student_id": "b60968b8-728f-431e-86cf-6706bc727878",
+        "name": "Patrick Schultz",
+        "grade": "A"
+      },
+      {
+        "student_id": "135c3c0e-78a8-4f20-8b04-f34e9acc4f34",
+        "name": "Patrick Stewart",
+        "grade": "B"
+      },
+      {
+        "student_id": "ae2c7b97-ce55-4ef9-bf0a-9cbc131431d4",
+        "name": "David Harris",
+        "grade": "A"
+      },
+      {
+        "student_id": "4ccad9fa-7aa1-4be5-be96-7f3127cf2a9c",
+        "name": "Melissa Pierce",
+        "grade": "A"
+      },
+      {
+        "student_id": "258f784e-3af4-49a9-a7a2-42cf7b7576ce",
+        "name": "Melissa Lopez",
+        "grade": "C"
+      },
+      {
+        "student_id": "5a2e69c3-5046-4373-b5d6-723ab96e347b",
+        "name": "Aaron Elliott",
+        "grade": "A"
+      },
+      {
+        "student_id": "33531388-10b8-4c5e-92c9-69c99968c4db",
+        "name": "Michael Curry",
+        "grade": "A"
+      },
+      {
+        "student_id": "2c6fc9af-135c-452e-8f81-668f0bf4627b",
+        "name": "Ashley Taylor",
+        "grade": "C"
+      },
+      {
+        "student_id": "4d56baab-aeca-404d-a1bc-47490cef3115",
+        "name": "Don Petersen",
+        "grade": "C"
+      },
+      {
+        "student_id": "c7bd6247-8aaa-4ab0-a4c6-63e7448e20fa",
+        "name": "Anthony Navarro",
+        "grade": "A"
+      },
+      {
+        "student_id": "558ca007-9ed2-4c19-9ba6-e7571af00d7d",
+        "name": "Paige Mason",
+        "grade": "B"
+      },
+      {
+        "student_id": "0b8b3542-a2e1-4597-a88b-4290888c4f90",
+        "name": "Christine Rogers",
+        "grade": "C"
+      },
+      {
+        "student_id": "7afe7dde-5ec9-44d7-9185-a19af723772d",
+        "name": "Tammy Calderon MD",
+        "grade": "A"
+      },
+      {
+        "student_id": "1176e2d4-cb71-41d4-adae-110cba7f5eef",
+        "name": "Jacob Gutierrez",
+        "grade": "B"
+      },
+      {
+        "student_id": "5208e79a-75c6-4264-b4ad-96ba210f42ca",
+        "name": "Jacob Strickland",
+        "grade": "A"
+      },
+      {
+        "student_id": "b2232674-0726-429d-a0c7-5bc864e382a3",
+        "name": "Jorge Humphrey",
+        "grade": "B"
+      },
+      {
+        "student_id": "a8d8b66d-c627-484c-9d37-fc72a13a5d7c",
+        "name": "Ashley Santiago",
+        "grade": "A"
+      },
+      {
+        "student_id": "bee2c1ff-10fc-459e-9450-44ba0a369883",
+        "name": "Renee Reid",
+        "grade": "A"
+      },
+      {
+        "student_id": "a2dc06af-7ce6-4bac-9c2b-ee24895d065e",
+        "name": "Janice Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "cd45d746-8f1a-436c-ae2e-91ae37664f44",
+        "name": "Tonya Stewart",
+        "grade": "B"
+      },
+      {
+        "student_id": "02724320-8a81-43d7-87f0-a586be34c146",
+        "name": "Robert Mccall PhD",
+        "grade": "A"
+      },
+      {
+        "student_id": "3b9a27e9-8d9a-4612-a3de-a6a12b994608",
+        "name": "Samuel Shaw",
+        "grade": "B"
+      },
+      {
+        "student_id": "9340dc2b-5ae0-4089-838f-f992a9a0f04c",
+        "name": "Rita Gutierrez",
+        "grade": "C"
+      },
+      {
+        "student_id": "43fc5cb9-fc94-4cb2-86ce-16395a57129c",
+        "name": "Brenda Foster",
+        "grade": "C"
+      },
+      {
+        "student_id": "0f12d84a-3cc5-4556-acc5-7b9a7cf43865",
+        "name": "Vincent Romero",
+        "grade": "B"
+      },
+      {
+        "student_id": "1644ce96-d114-495d-a97c-158aa279a989",
+        "name": "Brittney Flores",
+        "grade": "C"
+      },
+      {
+        "student_id": "1120fcb6-0302-44ce-b267-02ee242075dc",
+        "name": "Tara Bell",
+        "grade": "C"
+      },
+      {
+        "student_id": "1c9aa7ba-4847-40ca-acf5-201df9f198f0",
+        "name": "Kevin Neal",
+        "grade": "C"
+      },
+      {
+        "student_id": "4263473c-2331-4b5a-90c2-0a2cb5247998",
+        "name": "Brittany Hall",
+        "grade": "C"
+      },
+      {
+        "student_id": "a6f6f844-0ad5-41d8-909b-3d62d96a1426",
+        "name": "Chad Oconnor",
+        "grade": "A"
+      },
+      {
+        "student_id": "a7afdec9-1d9f-4815-92be-f80c40b93d73",
+        "name": "Xavier Pham",
+        "grade": "C"
+      },
+      {
+        "student_id": "0a849e6c-9728-4cd8-96e3-8b1a9648b7aa",
+        "name": "Jonathan Johnson",
+        "grade": "A"
+      },
+      {
+        "student_id": "7e4ed356-7b1c-4993-9bd4-758328166c4f",
+        "name": "Mrs. Maria Pope",
+        "grade": "C"
+      },
+      {
+        "student_id": "ae381289-ff0c-40d1-9a09-345a564d9a07",
+        "name": "Jennifer Phillips",
+        "grade": "C"
+      },
+      {
+        "student_id": "a9bc5973-b37e-432d-8875-b08f4b58da4a",
+        "name": "Olivia Howe",
+        "grade": "B"
+      },
+      {
+        "student_id": "9e9990b3-6800-40de-ae3d-1d84f5b8e6b8",
+        "name": "Samuel Gilbert",
+        "grade": "C"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "3f60b8cd-4e58-4bff-be10-c6247e12bd3b",
+        "name": "Juan Sanchez",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "9065831a-fd35-4eb7-aed3-f762f81eb851",
+        "name": "Jacob Mann",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "f812fa47-e161-4b86-bc64-541b90cb1710",
+        "name": "Phillip Hunt",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "25d9af90-4dc5-4277-b4a6-a8dedc22c406",
+        "name": "Maria Santos",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "fbb7d2e3-7399-4b8a-9a8f-fb84ca2c8b80",
+        "name": "Robert Stephenson",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "4c281865-0eda-4e97-8cf5-544d62b38b72",
+        "name": "Michael Romero",
+        "subject": "Math"
+      }
+    ],
+    "facilities": {
+      "classrooms": 30,
+      "gymnasium": false,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Jones-Clark",
+    "location": {
+      "city": "Juliastad",
+      "state": "Nebraska",
+      "zipcode": "31506"
+    },
+    "students": [
+      {
+        "student_id": "9c6b5bc4-2cc6-402c-bdcf-e651e0ef6837",
+        "name": "Alison Evans",
+        "grade": "C"
+      },
+      {
+        "student_id": "47dfc6d8-cccf-49c4-98f2-4280819eefc9",
+        "name": "Haley Caldwell",
+        "grade": "B"
+      },
+      {
+        "student_id": "2d5287ef-ee24-4f66-90e8-ef2bb324a3f2",
+        "name": "Christopher Kim",
+        "grade": "B"
+      },
+      {
+        "student_id": "30803ffd-18dd-4dd5-9a88-c09491f68483",
+        "name": "Nancy Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "b4a1e2ab-d597-4b34-a57c-452875d54155",
+        "name": "Kaitlyn Hall",
+        "grade": "C"
+      },
+      {
+        "student_id": "293fe1d3-fc84-4920-8bd0-20a31b7d4d25",
+        "name": "Brittany Charles",
+        "grade": "A"
+      },
+      {
+        "student_id": "da3fa8bc-8395-4e2b-bec4-a51de1105a72",
+        "name": "Daniel Green",
+        "grade": "A"
+      },
+      {
+        "student_id": "00aa7137-cc1d-420a-b6ab-16b312299b78",
+        "name": "Devin Gallagher",
+        "grade": "C"
+      },
+      {
+        "student_id": "773ac241-1dda-44c4-b51e-bb166df83842",
+        "name": "Shawn Ewing",
+        "grade": "B"
+      },
+      {
+        "student_id": "b742bd24-793b-4add-ac98-b7fe7634ef84",
+        "name": "Maurice Peterson",
+        "grade": "B"
+      },
+      {
+        "student_id": "5fc95bc6-3e5e-45e0-84a5-9bc8151ff491",
+        "name": "Stephanie Wilson",
+        "grade": "B"
+      },
+      {
+        "student_id": "cbb1b68a-77c6-4b61-8b9f-e211d176dc91",
+        "name": "Christopher Stout",
+        "grade": "C"
+      },
+      {
+        "student_id": "06be0c7e-122e-484a-9b26-30b96f0e7e01",
+        "name": "Madison Anderson",
+        "grade": "A"
+      },
+      {
+        "student_id": "eb49e5b7-000a-4050-9fbf-2fac722f9c30",
+        "name": "Sheryl Hendrix",
+        "grade": "C"
+      },
+      {
+        "student_id": "98039c64-5599-4b14-b9be-fca128927548",
+        "name": "Sean Romero",
+        "grade": "A"
+      },
+      {
+        "student_id": "646625aa-97d6-417b-b4c4-905beee4b8b7",
+        "name": "Christina Elliott",
+        "grade": "A"
+      },
+      {
+        "student_id": "4f039801-14a7-436d-94ff-9a142eee8f3c",
+        "name": "Kurt Reed",
+        "grade": "A"
+      },
+      {
+        "student_id": "bfb9471b-dd26-4c07-8641-ba6f6c5e991d",
+        "name": "Dwayne Hendricks",
+        "grade": "A"
+      },
+      {
+        "student_id": "7662b8bf-a6ea-4876-809a-27d200873c6c",
+        "name": "Craig Gonzalez",
+        "grade": "A"
+      },
+      {
+        "student_id": "64ffb2d1-0308-4e4a-b8ac-43d65e4ea1ee",
+        "name": "Eric Shaw",
+        "grade": "A"
+      },
+      {
+        "student_id": "525b9c76-4783-4b52-ae36-c5ac9ef9f26c",
+        "name": "Aimee Tran",
+        "grade": "B"
+      },
+      {
+        "student_id": "804f83c5-e7a7-4a39-a4ca-9489268c49d9",
+        "name": "Pam Dawson",
+        "grade": "A"
+      },
+      {
+        "student_id": "4195c561-1e4d-4ea9-8074-d4da13487883",
+        "name": "Phillip Harper",
+        "grade": "C"
+      },
+      {
+        "student_id": "504abd05-a3f8-4a11-926b-03d791725634",
+        "name": "Michael Mendez",
+        "grade": "C"
+      },
+      {
+        "student_id": "da443fd7-6c97-4b78-a081-0bab49048906",
+        "name": "Michele Martin",
+        "grade": "C"
+      },
+      {
+        "student_id": "fc838906-37f2-40de-a03b-edad736f69f3",
+        "name": "Abigail Anderson",
+        "grade": "C"
+      },
+      {
+        "student_id": "3a4b7a3f-866c-4a90-ba30-97ff3cd67599",
+        "name": "Amanda Kerr",
+        "grade": "B"
+      },
+      {
+        "student_id": "43e15208-429b-4f3c-9aa4-74b6035f06f0",
+        "name": "Vincent Roberts",
+        "grade": "C"
+      },
+      {
+        "student_id": "84a14452-e289-4dfc-acb9-c745a90e7172",
+        "name": "Adam Anderson",
+        "grade": "A"
+      },
+      {
+        "student_id": "4223c102-7047-40b0-af20-953b1fbe1801",
+        "name": "Kathleen Smith",
+        "grade": "C"
+      },
+      {
+        "student_id": "69e64386-96af-4901-ba6d-a2d5ea16edd5",
+        "name": "Tiffany Brock",
+        "grade": "A"
+      },
+      {
+        "student_id": "49b1ce93-3dde-475a-b35d-6c08e10ada41",
+        "name": "Patrick Oliver",
+        "grade": "C"
+      },
+      {
+        "student_id": "afc91609-25ec-470c-a289-94a676ec3531",
+        "name": "Melissa Trevino",
+        "grade": "B"
+      },
+      {
+        "student_id": "df4af8fc-9613-4792-87a8-748c2b4ce943",
+        "name": "Gabrielle Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "efa8eec8-5df1-4df8-b3c3-2f322bbc1d23",
+        "name": "Paul Erickson",
+        "grade": "C"
+      },
+      {
+        "student_id": "2a8f5c35-218f-4720-8b1f-24540ede1d6a",
+        "name": "Meghan Russell",
+        "grade": "A"
+      },
+      {
+        "student_id": "242ea200-7a55-4c58-ac31-6336c28e380d",
+        "name": "Dennis Lucero",
+        "grade": "C"
+      },
+      {
+        "student_id": "f22221aa-f0e9-408e-ae1c-dc746c9fed9d",
+        "name": "Kathleen Jordan",
+        "grade": "B"
+      },
+      {
+        "student_id": "d9c58d51-2770-40d0-ae26-3c04216e7643",
+        "name": "Martin Brown",
+        "grade": "B"
+      },
+      {
+        "student_id": "731942e8-14e0-40da-aaed-ad5e10621721",
+        "name": "Tracy Terry",
+        "grade": "B"
+      },
+      {
+        "student_id": "c8cd989c-386b-483f-826d-19ad102e17bb",
+        "name": "Mr. William Lowe Jr.",
+        "grade": "B"
+      },
+      {
+        "student_id": "5f29a948-12b8-45eb-9adf-ad9ba76efff4",
+        "name": "Brian Robinson",
+        "grade": "C"
+      },
+      {
+        "student_id": "d939da18-92c9-4746-ad5d-8531bf2d1e87",
+        "name": "Jose Greer",
+        "grade": "C"
+      },
+      {
+        "student_id": "a2a4bab0-868d-4973-8444-dfb17ce1194e",
+        "name": "Megan Brooks",
+        "grade": "B"
+      },
+      {
+        "student_id": "a9e0fd78-fb94-4f5d-a801-25f26c1d68fa",
+        "name": "William Short",
+        "grade": "C"
+      },
+      {
+        "student_id": "1af01d88-ab9a-4b9b-acbf-2a7b21ba0afc",
+        "name": "Kelsey Chan",
+        "grade": "C"
+      },
+      {
+        "student_id": "520e045f-607e-4943-9892-099c6c59e08e",
+        "name": "Matthew Soto",
+        "grade": "C"
+      },
+      {
+        "student_id": "9fe86739-2e9c-4b3c-a820-c31cb674ecd5",
+        "name": "Paula Cannon",
+        "grade": "C"
+      },
+      {
+        "student_id": "a6df0b2b-330e-47db-afe4-02f6e6d9be7d",
+        "name": "Randall Bass",
+        "grade": "A"
+      },
+      {
+        "student_id": "adde5945-3efd-4d1b-ba14-25a565123c72",
+        "name": "Joseph Thompson",
+        "grade": "B"
+      },
+      {
+        "student_id": "d80ca8e1-25c7-47fc-a54d-b5957eae5b0c",
+        "name": "Mr. Kenneth Rivera DDS",
+        "grade": "A"
+      },
+      {
+        "student_id": "0ec41a4b-c8fa-4144-9561-1d9b8eb78c41",
+        "name": "Timothy Salas",
+        "grade": "A"
+      },
+      {
+        "student_id": "011f6767-adb0-4ac9-aaa6-b8d76d9cdf58",
+        "name": "Mary Guzman",
+        "grade": "B"
+      },
+      {
+        "student_id": "6acd4d3f-df4f-414e-bdac-addbcfd55415",
+        "name": "Jacob Johnson",
+        "grade": "C"
+      },
+      {
+        "student_id": "ea1d1e7d-78b9-4014-9048-aa9542cfbb4a",
+        "name": "Christian Hansen",
+        "grade": "B"
+      },
+      {
+        "student_id": "6e618a30-c226-4e42-a8ee-ae0b1a9cf6c4",
+        "name": "James Graham",
+        "grade": "C"
+      },
+      {
+        "student_id": "2f2904ef-706a-40d1-8911-ba09217ec16e",
+        "name": "Amy Gray",
+        "grade": "B"
+      },
+      {
+        "student_id": "7245a341-b430-4954-af7a-662b34b3acec",
+        "name": "Walter Shah",
+        "grade": "A"
+      },
+      {
+        "student_id": "57f9e179-33d7-450f-8846-19fad83bb6f5",
+        "name": "Erica Burton",
+        "grade": "A"
+      },
+      {
+        "student_id": "2e90b503-ab7e-4167-8a49-c2c35f133247",
+        "name": "Veronica Joseph",
+        "grade": "C"
+      },
+      {
+        "student_id": "f4bb2add-b68c-45f6-81d4-6c7d61307bb3",
+        "name": "Edgar Gray",
+        "grade": "B"
+      },
+      {
+        "student_id": "0349650f-29a5-4f62-8498-6929ffc94965",
+        "name": "Victoria Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "6b9096f2-0fab-4f11-84d6-c343feb0d312",
+        "name": "Christopher Knight",
+        "grade": "B"
+      },
+      {
+        "student_id": "386461f5-39b0-4709-a84b-8ff7facc4a0f",
+        "name": "Taylor Chavez",
+        "grade": "C"
+      },
+      {
+        "student_id": "14a05438-b3d5-4b04-a649-5dc6fa5a88ff",
+        "name": "Deanna Figueroa",
+        "grade": "A"
+      },
+      {
+        "student_id": "52b912a5-6e14-4d43-8fb2-cd047ebd9af4",
+        "name": "Jessica Carey",
+        "grade": "B"
+      },
+      {
+        "student_id": "b4efffec-2400-4340-9d3a-fa40c5cc72bd",
+        "name": "Wendy Vazquez",
+        "grade": "B"
+      },
+      {
+        "student_id": "f8b378cf-61c5-446f-bdf1-ecf4229a5386",
+        "name": "Russell Cain",
+        "grade": "C"
+      },
+      {
+        "student_id": "419f30a5-efb6-4d66-8fc3-cddbb7117609",
+        "name": "Amy Gregory",
+        "grade": "C"
+      },
+      {
+        "student_id": "62573a1d-43fc-4401-88c8-c050942c7815",
+        "name": "Ashley Stuart",
+        "grade": "C"
+      },
+      {
+        "student_id": "8ac6066a-ace7-4201-a423-f26949003109",
+        "name": "Douglas Nguyen",
+        "grade": "C"
+      },
+      {
+        "student_id": "14fe935d-3202-4f39-9543-34330c057d9f",
+        "name": "Chad Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "3223c80b-7210-46a2-8866-925a6d5c8bc1",
+        "name": "Raven Garcia",
+        "grade": "A"
+      },
+      {
+        "student_id": "2fa00d13-80d5-4835-b9eb-2426f103eaba",
+        "name": "Brian Brown",
+        "grade": "B"
+      },
+      {
+        "student_id": "9c4aad88-16d8-4f9f-836b-1163ea7d9582",
+        "name": "Trevor Aguirre",
+        "grade": "A"
+      },
+      {
+        "student_id": "403b29c9-88a6-468d-a00a-27a4a2d7108d",
+        "name": "Benjamin Moody",
+        "grade": "B"
+      },
+      {
+        "student_id": "6d2948ea-4402-4f9c-96d0-3e102d531e53",
+        "name": "Brian Ortiz",
+        "grade": "C"
+      },
+      {
+        "student_id": "e3854bde-5270-4f69-bdac-6fb95357bb83",
+        "name": "Christopher Logan",
+        "grade": "A"
+      },
+      {
+        "student_id": "6f81ede5-a81d-44ad-b16e-e436d3885f6c",
+        "name": "Donna Caldwell",
+        "grade": "A"
+      },
+      {
+        "student_id": "0c680cc3-7ae6-42d9-8fc4-0ae2e91f0c21",
+        "name": "Lori Fleming",
+        "grade": "C"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "31677feb-9a79-4cee-b20b-38dee04f5775",
+        "name": "Eric Mccoy",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "6e9ae988-fa44-4a47-8673-ed41cc4e78c8",
+        "name": "Katherine Contreras",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "3b4d33be-ad1e-43a4-8b25-5fdb85fa0550",
+        "name": "James Peterson",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "acdbf68e-d4ef-4b02-98db-01e1d248cd4f",
+        "name": "Christopher Trevino",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "04a21068-c5fe-4836-b166-6f88cd4a13f1",
+        "name": "Joshua Baker",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "e0742b4f-b922-4e8e-b485-19ba93f0bf9e",
+        "name": "Elizabeth Rhodes",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "f964550a-3c9b-427b-90e9-b2fd0059906e",
+        "name": "Misty Adams",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "8efd0894-5868-42bc-b737-2789b7b1855b",
+        "name": "Rebecca Frederick",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "ea0f47b4-6f58-4008-9c7f-120376fca9cc",
+        "name": "Austin Sims",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "ff9211d2-1b3f-4ab5-b4be-1baa9efdbb72",
+        "name": "Jerry Payne",
+        "subject": "Math"
+      }
+    ],
+    "facilities": {
+      "classrooms": 12,
+      "gymnasium": true,
+      "library": false
+    }
+  },
+  {
+    "school_name": "Davis, Wyatt and Harmon",
+    "location": {
+      "city": "Daughertymouth",
+      "state": "Montana",
+      "zipcode": "82930"
+    },
+    "students": [
+      {
+        "student_id": "f00b964c-9ed8-4c10-9fee-b92548db9cd1",
+        "name": "Stephen Gill",
+        "grade": "C"
+      },
+      {
+        "student_id": "83a3baf6-4784-4775-a1d5-b59de34b1b8b",
+        "name": "Melissa Robinson",
+        "grade": "C"
+      },
+      {
+        "student_id": "66cf4cb4-dbe5-4d70-aeb4-5d0ee1a2af12",
+        "name": "Todd Griffith",
+        "grade": "B"
+      },
+      {
+        "student_id": "11775a50-3b4e-4812-ad8f-53d369d011f4",
+        "name": "Joshua Mendez",
+        "grade": "A"
+      },
+      {
+        "student_id": "5168e7ab-2550-469c-ac55-54d70a7f87d6",
+        "name": "Jerry Clements Jr.",
+        "grade": "B"
+      },
+      {
+        "student_id": "578f3e4b-4a8d-43fc-b34d-aee3d4cdd252",
+        "name": "Lisa Johnson",
+        "grade": "A"
+      },
+      {
+        "student_id": "226848b4-77bc-4afd-8c48-ff99bc932182",
+        "name": "Lee Thomas",
+        "grade": "C"
+      },
+      {
+        "student_id": "7d9e9200-33d7-4df0-b55e-e1594e8eaa29",
+        "name": "Dustin Davis",
+        "grade": "A"
+      },
+      {
+        "student_id": "eeae78ec-ac51-4fbb-b906-0752eb161eec",
+        "name": "Gregory Oneal",
+        "grade": "B"
+      },
+      {
+        "student_id": "b81cd34b-6113-4e5f-9b5d-826c902a3d7f",
+        "name": "Robert Warren",
+        "grade": "B"
+      },
+      {
+        "student_id": "bb42ccc1-f168-4264-9feb-35644a9d3266",
+        "name": "Nicholas Brooks",
+        "grade": "B"
+      },
+      {
+        "student_id": "fb317977-da10-418c-a5d9-14890ced63b7",
+        "name": "Gregory Martin",
+        "grade": "B"
+      },
+      {
+        "student_id": "24898805-1a79-4517-a72a-47dfa278466d",
+        "name": "Kathy Webb",
+        "grade": "A"
+      },
+      {
+        "student_id": "2fda0afc-c92c-4ec3-a10b-8c8818640fef",
+        "name": "Rebecca Hunter",
+        "grade": "A"
+      },
+      {
+        "student_id": "07d740f5-631c-4e04-a084-45e4a98671b3",
+        "name": "Terri Ross",
+        "grade": "B"
+      },
+      {
+        "student_id": "22ee37af-9dc5-4231-ad24-d78237a7ef33",
+        "name": "David Perez",
+        "grade": "A"
+      },
+      {
+        "student_id": "dc409f08-6269-4d82-bd33-910618b4326b",
+        "name": "Brooke Herrera",
+        "grade": "C"
+      },
+      {
+        "student_id": "892af210-6d57-48cd-acea-b3baf2c65d51",
+        "name": "Angela Morrow",
+        "grade": "A"
+      },
+      {
+        "student_id": "552f940a-8d51-47b2-810f-925d73ed819d",
+        "name": "Robin West",
+        "grade": "C"
+      },
+      {
+        "student_id": "1fb1b578-160f-4a2b-8ba4-4e64d775680c",
+        "name": "Teresa Johnson",
+        "grade": "A"
+      },
+      {
+        "student_id": "6da1a916-188b-4571-9a72-07e06fb65490",
+        "name": "Brianna King",
+        "grade": "C"
+      },
+      {
+        "student_id": "e3e9a78b-a73d-4300-832f-afbf0d0db6e3",
+        "name": "Bryan Merritt",
+        "grade": "A"
+      },
+      {
+        "student_id": "a50c7183-f3be-4a3f-958e-0e24f376c6a5",
+        "name": "Stephen Bradshaw",
+        "grade": "C"
+      },
+      {
+        "student_id": "5ee78067-3274-4117-8744-de7e6e80ff65",
+        "name": "Kristen Benson",
+        "grade": "C"
+      },
+      {
+        "student_id": "a5de9855-5d6e-4be3-a3ec-efb7c296b248",
+        "name": "Destiny Nguyen",
+        "grade": "A"
+      },
+      {
+        "student_id": "0e38a06b-c290-4e4c-90d4-26a222df625a",
+        "name": "Bryan Clark",
+        "grade": "A"
+      },
+      {
+        "student_id": "7eff1520-2452-4d03-805a-73d0d91f4f2f",
+        "name": "Maria Martin",
+        "grade": "C"
+      },
+      {
+        "student_id": "be099be3-934d-4304-9e9a-37c4b9180b65",
+        "name": "Jennifer Cortez",
+        "grade": "A"
+      },
+      {
+        "student_id": "e93f3813-b60a-41eb-b5bf-c213c0eec992",
+        "name": "Cynthia Simpson",
+        "grade": "B"
+      },
+      {
+        "student_id": "dd0c5340-f81d-422f-973c-b11bf78d11f2",
+        "name": "Brandy Peters",
+        "grade": "C"
+      },
+      {
+        "student_id": "439f4f81-f02b-48b5-97b7-41d56298fe03",
+        "name": "Jennifer Dean",
+        "grade": "A"
+      },
+      {
+        "student_id": "55395277-8565-4b29-be92-426219b11ef4",
+        "name": "Trevor Porter",
+        "grade": "A"
+      },
+      {
+        "student_id": "1aa1c5b0-d353-4175-8d93-18e55d5ffd45",
+        "name": "Devin Rivera",
+        "grade": "A"
+      },
+      {
+        "student_id": "83a85919-5058-4cd1-8edb-701e51d79510",
+        "name": "Jeff Warren",
+        "grade": "A"
+      },
+      {
+        "student_id": "cdc32a20-dd75-456b-80c2-f995128c203c",
+        "name": "Anthony Kaufman",
+        "grade": "C"
+      },
+      {
+        "student_id": "7e0b27ec-bc57-4725-b91c-3239f806ef41",
+        "name": "Tammy King",
+        "grade": "B"
+      },
+      {
+        "student_id": "fd5679bd-4cf7-460b-94a2-5991b39a9d35",
+        "name": "Jennifer Weber",
+        "grade": "A"
+      },
+      {
+        "student_id": "f833c557-0974-4943-bb36-48b4c8fb5ad1",
+        "name": "Richard Bryant",
+        "grade": "A"
+      },
+      {
+        "student_id": "3cb0cb1f-694e-494b-8fdf-8062a130a91e",
+        "name": "Megan Maynard",
+        "grade": "A"
+      },
+      {
+        "student_id": "157abd89-309f-4276-aa18-77d863470464",
+        "name": "Elizabeth Rich",
+        "grade": "B"
+      },
+      {
+        "student_id": "f85079a5-f7f0-4f8e-a346-8dbac24f7a06",
+        "name": "James Fields",
+        "grade": "A"
+      },
+      {
+        "student_id": "0968b67f-92a8-4f1c-af69-f5f7a4dcc5bd",
+        "name": "Jeremy Fleming",
+        "grade": "C"
+      },
+      {
+        "student_id": "faeef66e-105c-4a35-ade8-db13d66385b8",
+        "name": "Christy Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "1559d6f6-cf71-43ea-a949-604a1b3fd336",
+        "name": "Patrick Williams",
+        "grade": "C"
+      },
+      {
+        "student_id": "f02bc2c9-7f9a-4e6e-ae8b-9458ed0c342e",
+        "name": "Allen Gallagher",
+        "grade": "B"
+      },
+      {
+        "student_id": "0d2a8815-78dc-4cc6-a394-53794174a3de",
+        "name": "George King",
+        "grade": "A"
+      },
+      {
+        "student_id": "3b041791-15f4-4e19-82f3-4cb545a3049d",
+        "name": "Ashley Contreras",
+        "grade": "C"
+      },
+      {
+        "student_id": "11a5f16e-6ec0-4212-ac7e-37eba671ccf9",
+        "name": "Albert Olson",
+        "grade": "C"
+      },
+      {
+        "student_id": "f10571b1-32ba-482f-9098-1146fd7e1e09",
+        "name": "Logan Sanders",
+        "grade": "A"
+      },
+      {
+        "student_id": "07d41a4b-bbf5-4bc8-b823-d6a9ae0bcf2e",
+        "name": "Wayne Oneal",
+        "grade": "C"
+      },
+      {
+        "student_id": "d7f81cac-c9bf-4f96-8295-1efdae5019c7",
+        "name": "Christian Murphy",
+        "grade": "C"
+      },
+      {
+        "student_id": "b637e1db-4759-422d-a1fe-c042f805976e",
+        "name": "David Henry",
+        "grade": "C"
+      },
+      {
+        "student_id": "39575d47-a139-48b0-8ac0-9d6a0edb5977",
+        "name": "Jesse Rodgers",
+        "grade": "A"
+      },
+      {
+        "student_id": "0f44ce48-7e8f-46ff-a664-c8ca948e1ef1",
+        "name": "Deborah Rios",
+        "grade": "C"
+      },
+      {
+        "student_id": "fc21a756-4137-48a1-bb74-85421ba0f81a",
+        "name": "David Calhoun",
+        "grade": "B"
+      },
+      {
+        "student_id": "e0cd8b93-0c02-437e-9b2f-914bf5d46160",
+        "name": "Amanda Castaneda",
+        "grade": "A"
+      },
+      {
+        "student_id": "85388164-5841-4c6e-9bad-453023c3e523",
+        "name": "Mitchell Ruiz",
+        "grade": "A"
+      },
+      {
+        "student_id": "65605905-66a6-4deb-953b-9506f19e2ee4",
+        "name": "Caitlin Cooper",
+        "grade": "C"
+      },
+      {
+        "student_id": "a5464376-e5bb-46f8-9aef-3e9f562e2f22",
+        "name": "Bailey Wilson",
+        "grade": "A"
+      },
+      {
+        "student_id": "a01a649a-9433-4004-808f-bc0666c1f6a6",
+        "name": "Karen Davis",
+        "grade": "B"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "405f827a-24f7-4f28-bf36-07385a6a46d8",
+        "name": "William Acosta",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "67b1cc62-9c5a-4b90-9ec5-6f5063bcb199",
+        "name": "John Stark",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "fab5f2a2-a83a-4789-9225-248531fee3ab",
+        "name": "Thomas Maxwell",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "164c5965-907d-49ac-a446-47d0799fb95c",
+        "name": "James Garcia",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "2b5fd006-c430-431d-8e57-610f3ede4170",
+        "name": "Derek Wallace",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "85b787e1-b185-41ef-8ba9-0f744e59367d",
+        "name": "Justin Shah",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "ea5a5bc2-2496-4b6e-be60-f79e14e5f955",
+        "name": "Matthew Sloan II",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "f8f88c28-a12f-4f4a-aa22-2844ba4f1868",
+        "name": "Haley Berger",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "8c70065f-44ae-41d2-9a24-46887962dd5c",
+        "name": "Maurice Rodriguez",
+        "subject": "English"
+      }
+    ],
+    "facilities": {
+      "classrooms": 15,
+      "gymnasium": true,
+      "library": false
+    }
+  },
+  {
+    "school_name": "Casey-Lester",
+    "location": {
+      "city": "West Anthony",
+      "state": "West Virginia",
+      "zipcode": "89900"
+    },
+    "students": [
+      {
+        "student_id": "a00e0dec-eda0-4269-9816-75dd4147f2e8",
+        "name": "Reginald Christian",
+        "grade": "A"
+      },
+      {
+        "student_id": "691d61c3-5df0-45bf-b788-db946be422c3",
+        "name": "Nathan Stone",
+        "grade": "B"
+      },
+      {
+        "student_id": "a1452c0d-be15-4c76-a2c5-7ef69b80ba2e",
+        "name": "Terry Lewis",
+        "grade": "A"
+      },
+      {
+        "student_id": "6f80e791-20bd-4b99-8182-70f0befdf1a1",
+        "name": "Nicholas Lawrence",
+        "grade": "A"
+      },
+      {
+        "student_id": "0045b6e8-8cd2-4032-bf8e-3bcf911f0158",
+        "name": "Leah Wilson",
+        "grade": "A"
+      },
+      {
+        "student_id": "98ab5036-d789-46f0-8a4c-cf535f4191ae",
+        "name": "Richard Williamson",
+        "grade": "C"
+      },
+      {
+        "student_id": "62c51afd-ee8b-42d8-a46f-2ff84f42a49b",
+        "name": "Katherine Cox",
+        "grade": "C"
+      },
+      {
+        "student_id": "5925e027-bbaf-4316-afdd-33f38a942980",
+        "name": "Chad Romero",
+        "grade": "B"
+      },
+      {
+        "student_id": "842a55ac-4741-42a6-a1d5-d4fb4993a594",
+        "name": "Benjamin Pugh",
+        "grade": "C"
+      },
+      {
+        "student_id": "755905db-8bf6-46ef-8d71-86daa9edc11b",
+        "name": "Melissa Hodges",
+        "grade": "B"
+      },
+      {
+        "student_id": "3d398cbb-0c78-47e3-9e56-1c295792ae83",
+        "name": "Cory Pratt",
+        "grade": "C"
+      },
+      {
+        "student_id": "0f78ef59-862c-45ab-9032-90e82e9c6f23",
+        "name": "Mary Conrad",
+        "grade": "B"
+      },
+      {
+        "student_id": "326fca27-8a05-40fe-88cd-2e929f4f5d03",
+        "name": "Sierra Snyder",
+        "grade": "C"
+      },
+      {
+        "student_id": "b9297ffd-a09a-4b22-acfe-2af8f064a3e2",
+        "name": "Brandon Schultz",
+        "grade": "C"
+      },
+      {
+        "student_id": "f7eb0b2d-5aca-46d1-bd82-6d3db9ba998f",
+        "name": "Claudia Murray",
+        "grade": "C"
+      },
+      {
+        "student_id": "4979f6ab-27ea-409c-aab7-b87b333af75b",
+        "name": "Matthew Morgan",
+        "grade": "B"
+      },
+      {
+        "student_id": "890697d9-bcba-4dea-a59b-ddbccbd5bf3e",
+        "name": "Cory Herrera",
+        "grade": "A"
+      },
+      {
+        "student_id": "32634580-9c88-4d11-b4d5-09a4c985900e",
+        "name": "Jerome Brady",
+        "grade": "C"
+      },
+      {
+        "student_id": "28b534fa-4bef-4be3-aad5-b06909f95413",
+        "name": "James Berg",
+        "grade": "B"
+      },
+      {
+        "student_id": "b5a8763e-4b42-474a-a468-ca23c6559340",
+        "name": "Troy Calhoun",
+        "grade": "B"
+      },
+      {
+        "student_id": "68aabf3c-1dc1-438e-81a5-4367bd1b36b7",
+        "name": "Emily Watson PhD",
+        "grade": "C"
+      },
+      {
+        "student_id": "408557c8-5308-411e-9d9c-a7a4974351b7",
+        "name": "Shannon Brown",
+        "grade": "A"
+      },
+      {
+        "student_id": "75c8d79f-5a0c-457e-ae5a-40d1c21c25e1",
+        "name": "Tony Wood",
+        "grade": "C"
+      },
+      {
+        "student_id": "ba39eee5-56e6-493f-bcc1-9ade766f93a2",
+        "name": "Joshua Owens",
+        "grade": "A"
+      },
+      {
+        "student_id": "85b8ce7e-2622-4bbb-8fb0-473b790c7bdf",
+        "name": "Judith Perez",
+        "grade": "C"
+      },
+      {
+        "student_id": "d0590fdf-8ae5-46b0-a473-192eaf2e14a4",
+        "name": "Thomas Moore",
+        "grade": "B"
+      },
+      {
+        "student_id": "42bf6338-8190-44d8-9f12-1e6daec86b24",
+        "name": "Margaret Myers",
+        "grade": "B"
+      },
+      {
+        "student_id": "90ccf23b-6702-496c-b13b-bd8960f5b18b",
+        "name": "Caleb Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "78f7b88b-72c5-4afe-887a-21bdc7873c51",
+        "name": "Christine Morris",
+        "grade": "B"
+      },
+      {
+        "student_id": "c985463b-2be1-4cb6-b206-e140c308d979",
+        "name": "Emily Brown",
+        "grade": "A"
+      },
+      {
+        "student_id": "9e18ac4e-7368-4463-976b-51b2185f5409",
+        "name": "Brooke Reeves",
+        "grade": "B"
+      },
+      {
+        "student_id": "d30d5d83-2d51-42ee-b926-cf0ec5f29384",
+        "name": "Amber Jackson",
+        "grade": "A"
+      },
+      {
+        "student_id": "f2fcc90b-1d9a-45f7-8a4f-cdc529434a57",
+        "name": "Robert Boone",
+        "grade": "C"
+      },
+      {
+        "student_id": "f489634f-503b-40b4-bebc-65f6019c9863",
+        "name": "Melanie Mcdonald",
+        "grade": "B"
+      },
+      {
+        "student_id": "6cb5530b-17ff-4c6d-97be-e94fc362a522",
+        "name": "Andrew Zimmerman",
+        "grade": "A"
+      },
+      {
+        "student_id": "506f7c1e-3b24-4b2f-886a-232fa4b8b7a1",
+        "name": "Erin Bryan",
+        "grade": "A"
+      },
+      {
+        "student_id": "de460338-4615-435a-84ab-c1d7c5d7887e",
+        "name": "Carl Mcneil",
+        "grade": "C"
+      },
+      {
+        "student_id": "5d3a1531-9c3f-47ad-ae32-d52c4fc40562",
+        "name": "Adam Walton",
+        "grade": "A"
+      },
+      {
+        "student_id": "5d8ce159-4198-47a4-adfc-dc2b3251ed7c",
+        "name": "Sonia Wilson",
+        "grade": "B"
+      },
+      {
+        "student_id": "e5dab7b5-6d8c-45bd-bce9-5bbb1d6fb2ea",
+        "name": "Patrick Mclean",
+        "grade": "B"
+      },
+      {
+        "student_id": "0a374fb3-3128-4744-962d-ef7cc9f02ad9",
+        "name": "Ashley Dominguez",
+        "grade": "A"
+      },
+      {
+        "student_id": "aba5f7f3-9a2d-4575-ab20-6415e71bdc35",
+        "name": "Elizabeth Parker",
+        "grade": "C"
+      },
+      {
+        "student_id": "5191dec1-4341-4d07-a3ab-72757a1ea08e",
+        "name": "Kelly Barnes",
+        "grade": "C"
+      },
+      {
+        "student_id": "04766260-75a9-4104-8318-6eee3bd3f4b4",
+        "name": "Haley Martin",
+        "grade": "B"
+      },
+      {
+        "student_id": "81c0a5a1-0091-4398-a234-73846055db6e",
+        "name": "Stacie Reid",
+        "grade": "B"
+      },
+      {
+        "student_id": "0bada3e6-c5d5-41ca-aad9-1fff2b52cb78",
+        "name": "Andrew Moore",
+        "grade": "B"
+      },
+      {
+        "student_id": "5cba5764-4f21-4341-81fd-6fd70da4fd1a",
+        "name": "Donna Wang",
+        "grade": "B"
+      },
+      {
+        "student_id": "a1bb6cc0-19b9-41d5-a804-a8c464ef0e73",
+        "name": "Megan Garcia",
+        "grade": "B"
+      },
+      {
+        "student_id": "3556b53c-b7e2-484b-b253-2386899a2e38",
+        "name": "Madeline Perez",
+        "grade": "A"
+      },
+      {
+        "student_id": "2f68b2bb-7c7f-4cc7-bfa8-12d18d01a6e9",
+        "name": "Xavier Welch",
+        "grade": "C"
+      },
+      {
+        "student_id": "799764e1-a0b0-48e1-8e7e-2d2db080459a",
+        "name": "Charles Lewis",
+        "grade": "B"
+      },
+      {
+        "student_id": "bd77a249-888e-4d17-8159-cbbd3b599d66",
+        "name": "Holly Johnston",
+        "grade": "A"
+      },
+      {
+        "student_id": "992db9ee-445c-4b4a-937b-d4df2e19005b",
+        "name": "Rachel Le",
+        "grade": "C"
+      },
+      {
+        "student_id": "aad27640-3194-42de-8339-2fa632214087",
+        "name": "Tyler Carroll",
+        "grade": "C"
+      },
+      {
+        "student_id": "0f17a132-0b7a-4834-8111-5f637155af0c",
+        "name": "Michelle Banks",
+        "grade": "A"
+      },
+      {
+        "student_id": "679d66c5-d1a5-437f-8fea-3736ef3b5bb7",
+        "name": "Alvin Jackson",
+        "grade": "C"
+      },
+      {
+        "student_id": "8a5d0870-a22e-4df4-9165-440a085a4307",
+        "name": "Kenneth Jones",
+        "grade": "C"
+      },
+      {
+        "student_id": "65525a24-dc91-4e81-8d48-470d5fa9438e",
+        "name": "Jason Miller",
+        "grade": "A"
+      },
+      {
+        "student_id": "059408d4-0fad-4231-ba3f-f1116256c1fb",
+        "name": "Jack Farley",
+        "grade": "B"
+      },
+      {
+        "student_id": "658305c0-c8e0-46c0-a002-99a78cc1a1e0",
+        "name": "Stephanie Boone",
+        "grade": "C"
+      },
+      {
+        "student_id": "da20f676-3543-417e-8b9b-cfc49e2a0fc0",
+        "name": "Jennifer Wiggins",
+        "grade": "C"
+      },
+      {
+        "student_id": "787d6ba4-d47d-473d-95d5-2052a458e5a3",
+        "name": "Lauren Sanchez",
+        "grade": "B"
+      },
+      {
+        "student_id": "e4034808-55a6-49bc-8ece-030a99949a83",
+        "name": "Brittany Mack",
+        "grade": "A"
+      },
+      {
+        "student_id": "dc39575f-2334-4df2-9d4c-ecde24e2b049",
+        "name": "Jason Gaines",
+        "grade": "C"
+      },
+      {
+        "student_id": "e5c19367-cf07-4680-a494-f234fee7bacc",
+        "name": "Deborah Mathews",
+        "grade": "A"
+      },
+      {
+        "student_id": "8f90f7dc-d53e-489f-ac0d-7cfb2ab8b27f",
+        "name": "David Hicks",
+        "grade": "C"
+      },
+      {
+        "student_id": "cc40935d-53d5-479b-bd10-1bd9ff481bb6",
+        "name": "Rachel Wade",
+        "grade": "B"
+      },
+      {
+        "student_id": "39651a1d-bd40-4d29-abac-da9c5071c8a3",
+        "name": "James Chapman",
+        "grade": "C"
+      },
+      {
+        "student_id": "edd30a53-3358-4c4e-9b27-f89da5e36494",
+        "name": "Amanda Chang",
+        "grade": "A"
+      },
+      {
+        "student_id": "8539d86b-daf2-4763-9201-a2e62fb3f4ec",
+        "name": "Jenna James",
+        "grade": "B"
+      },
+      {
+        "student_id": "128a23cd-0433-46f7-a8d2-970379bbc25d",
+        "name": "Michael Daugherty",
+        "grade": "B"
+      },
+      {
+        "student_id": "9297467f-e61a-4e17-86c4-208bf567cb4f",
+        "name": "Natasha Lopez",
+        "grade": "B"
+      },
+      {
+        "student_id": "07ea7b9e-a25a-4287-901b-e45a1ea7463a",
+        "name": "Linda Andrade",
+        "grade": "A"
+      },
+      {
+        "student_id": "6fab6af9-a931-4eee-a4c3-8db207d6df59",
+        "name": "Isabella Delacruz",
+        "grade": "A"
+      },
+      {
+        "student_id": "e044dfb4-3fa5-457f-928a-074cc64e37c4",
+        "name": "Carlos Santana",
+        "grade": "C"
+      },
+      {
+        "student_id": "e88da694-dc45-4c75-9299-714ae64fcea1",
+        "name": "Tasha Lloyd",
+        "grade": "C"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "c3736143-c85b-4786-b26a-09eb19d7a541",
+        "name": "Thomas Davis MD",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "53a50c3a-97f0-4ef8-9259-0b1212234e3c",
+        "name": "Jillian Roberts",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "17584c74-eb9a-47de-b7a4-3dddc41a7771",
+        "name": "Tonya Singh",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "df8e0706-eeaf-46b7-8342-462ab863eb3a",
+        "name": "Alejandra Moore",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "fd51d067-1498-4de7-bfca-f6a0adcecce7",
+        "name": "Rachel Lopez",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "ec875434-d331-4c3b-9427-e9ca08a162ab",
+        "name": "Vanessa Gill",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "df7f555e-ba4a-43d1-8313-4e2e9ab25d8c",
+        "name": "Timothy Sanders",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "5f44fb6c-14b6-4763-82dc-7d30a7385271",
+        "name": "Brandy Garcia",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "07e5dee3-751e-4fa2-b2bb-f03ff15c6278",
+        "name": "Martin Brown",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "54ea65a6-a22d-4b9b-87fa-973cb3adc03a",
+        "name": "Amy Reese",
+        "subject": "Science"
+      }
+    ],
+    "facilities": {
+      "classrooms": 25,
+      "gymnasium": true,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Roberts-Compton",
+    "location": {
+      "city": "Valentineborough",
+      "state": "Wyoming",
+      "zipcode": "00607"
+    },
+    "students": [
+      {
+        "student_id": "f43d9e8a-0b7f-4303-afc0-c996ab8f8e70",
+        "name": "Samuel Richards",
+        "grade": "C"
+      },
+      {
+        "student_id": "61b733d9-3a54-4c8a-b070-8021f1a7c27f",
+        "name": "Alan Mendoza",
+        "grade": "A"
+      },
+      {
+        "student_id": "f223b449-69f6-4ee1-bda6-3c8a8244c99d",
+        "name": "Andrew Dyer",
+        "grade": "C"
+      },
+      {
+        "student_id": "ca1dd09c-f97b-4afe-900f-9887dbf46f23",
+        "name": "Tony Hernandez",
+        "grade": "C"
+      },
+      {
+        "student_id": "29aa7999-1398-41ff-9658-e73e9ccb8564",
+        "name": "Ricardo Powers",
+        "grade": "B"
+      },
+      {
+        "student_id": "bd5f1644-39f0-499d-aed5-69b42716cee5",
+        "name": "Tammy Edwards",
+        "grade": "A"
+      },
+      {
+        "student_id": "617fc97f-2130-4dee-a996-7a6a87a39570",
+        "name": "Benjamin Gibson",
+        "grade": "B"
+      },
+      {
+        "student_id": "1a6297df-4ec8-49db-943b-11541ae1f1a9",
+        "name": "Barbara Lang",
+        "grade": "C"
+      },
+      {
+        "student_id": "bafb5b4a-2997-44c1-9dcf-da567ca13a70",
+        "name": "Jeremy Cooper",
+        "grade": "B"
+      },
+      {
+        "student_id": "a3cbf7f7-254e-4fae-8d48-eb76fb5173df",
+        "name": "Paul Wagner",
+        "grade": "A"
+      },
+      {
+        "student_id": "3589f0f4-b2fa-4a81-b698-2959c185ec1d",
+        "name": "Lisa Glover",
+        "grade": "A"
+      },
+      {
+        "student_id": "2b5b13a8-7dda-4008-b98d-be448e117d91",
+        "name": "Natasha Hall",
+        "grade": "A"
+      },
+      {
+        "student_id": "b02b8047-458b-4f89-b636-4364a71944d2",
+        "name": "Luis Lee",
+        "grade": "A"
+      },
+      {
+        "student_id": "c9debbdc-3f71-4732-a299-7b4e4ea99828",
+        "name": "Andrew Chapman",
+        "grade": "A"
+      },
+      {
+        "student_id": "a02ed06f-eefe-434c-8531-c20f3a5428b9",
+        "name": "Barbara Riley",
+        "grade": "B"
+      },
+      {
+        "student_id": "8246d339-47c3-425a-8c09-370c5753bc94",
+        "name": "Debra Burns",
+        "grade": "B"
+      },
+      {
+        "student_id": "8ab547d7-6f79-4085-9d52-da84ae25e00a",
+        "name": "Dr. Katherine Olsen",
+        "grade": "C"
+      },
+      {
+        "student_id": "8e596da9-3141-4c20-a5e7-85b4c7fb79f1",
+        "name": "Kimberly Martin",
+        "grade": "A"
+      },
+      {
+        "student_id": "e824bffc-5aa7-433b-8efd-5e48221ae969",
+        "name": "Paul Reed",
+        "grade": "C"
+      },
+      {
+        "student_id": "6577aee6-be63-4953-97a8-a3cea32bfc14",
+        "name": "Elizabeth Reese",
+        "grade": "B"
+      },
+      {
+        "student_id": "d5a9e127-4817-4439-a5f7-d891ef79b5db",
+        "name": "Catherine Matthews",
+        "grade": "C"
+      },
+      {
+        "student_id": "ddb9c1c4-ba2c-459c-93f1-b68b825970f5",
+        "name": "Roger Kennedy MD",
+        "grade": "B"
+      },
+      {
+        "student_id": "f45c3c04-a1fd-4606-8f59-bde6cb0af4a0",
+        "name": "Shannon Hess",
+        "grade": "C"
+      },
+      {
+        "student_id": "e3aac2f4-7148-49f1-957a-15996ae15e39",
+        "name": "Heather Johnson",
+        "grade": "C"
+      },
+      {
+        "student_id": "d16167d4-7f64-4f1d-b1da-8a69b991d6e6",
+        "name": "Mrs. Sandra Johnson DDS",
+        "grade": "C"
+      },
+      {
+        "student_id": "ac6e2abd-a44d-46b1-8730-fa5b6052ab0e",
+        "name": "Bill Henderson",
+        "grade": "B"
+      },
+      {
+        "student_id": "6facd79e-d09b-4151-b8a3-125812dc77cc",
+        "name": "Tonya Castillo",
+        "grade": "B"
+      },
+      {
+        "student_id": "11a0f21f-f69c-422d-a59d-df8434984555",
+        "name": "Andrea Sawyer",
+        "grade": "C"
+      },
+      {
+        "student_id": "a964d7dc-10e9-4eff-a669-e2bf5b0d7cb5",
+        "name": "Paula Miller",
+        "grade": "B"
+      },
+      {
+        "student_id": "005746ef-010a-48b5-9dfc-2f147b53d44b",
+        "name": "Yesenia Taylor",
+        "grade": "A"
+      },
+      {
+        "student_id": "ec2bc0f8-41f2-43de-9861-cf4e9471469e",
+        "name": "Kelly Brown",
+        "grade": "A"
+      },
+      {
+        "student_id": "08469915-b18e-48c1-87a4-2ee11a5793dc",
+        "name": "Donna Mcpherson",
+        "grade": "B"
+      },
+      {
+        "student_id": "733a6a4f-abc1-4b8e-a606-42b91374bd6f",
+        "name": "Gregory Martin",
+        "grade": "C"
+      },
+      {
+        "student_id": "c50a56d3-35f7-4eab-bae0-15c55ce0cf4a",
+        "name": "Taylor Gregory",
+        "grade": "C"
+      },
+      {
+        "student_id": "029a2374-8505-41ec-beff-0c7d0fac79ba",
+        "name": "Connie Knox",
+        "grade": "B"
+      },
+      {
+        "student_id": "043b4ad7-2a45-4b93-ba4f-75e92ffe4361",
+        "name": "Lawrence Peterson",
+        "grade": "B"
+      },
+      {
+        "student_id": "c8659a66-4577-4e1a-ac92-b398db8de33d",
+        "name": "Jorge Wheeler",
+        "grade": "A"
+      },
+      {
+        "student_id": "b9a64690-41c2-4b8a-bf1c-211face56820",
+        "name": "Brittany Schmidt",
+        "grade": "A"
+      },
+      {
+        "student_id": "ad36c2e8-cc8f-4db9-8549-9700a6725813",
+        "name": "Michael Johnston",
+        "grade": "A"
+      },
+      {
+        "student_id": "4f2ea024-7fe0-44d2-b65c-1ed500be8d1a",
+        "name": "Nicholas Perez",
+        "grade": "B"
+      },
+      {
+        "student_id": "08620d35-435a-4da6-b4bf-15e014abaea0",
+        "name": "Patrick Pope",
+        "grade": "B"
+      },
+      {
+        "student_id": "ac979727-dde3-48e7-9adf-8d778fc9239e",
+        "name": "Faith Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "612c2cae-976b-4cb4-8f51-791299be132a",
+        "name": "Leslie Rice",
+        "grade": "B"
+      },
+      {
+        "student_id": "f3fd5c2a-88f5-4472-bb5b-c8062f033736",
+        "name": "Barbara Gibson",
+        "grade": "B"
+      },
+      {
+        "student_id": "a7ad0b80-72c7-4497-b02e-d8d13a2d6930",
+        "name": "Christina Smith DVM",
+        "grade": "A"
+      },
+      {
+        "student_id": "4117ca7e-e5cb-4374-8616-e61b74bf2a87",
+        "name": "Tony Petersen",
+        "grade": "A"
+      },
+      {
+        "student_id": "6ef1bbb3-9df1-445d-8363-eeb1c508deb4",
+        "name": "Gary Roberts",
+        "grade": "B"
+      },
+      {
+        "student_id": "4345ba1b-bb23-4870-a349-d27ea3bc81df",
+        "name": "James Pearson",
+        "grade": "A"
+      },
+      {
+        "student_id": "60f998c2-d650-4760-98bd-d8c0468600ae",
+        "name": "Walter Gordon",
+        "grade": "C"
+      },
+      {
+        "student_id": "47968a40-d373-4643-b909-edc4f7245294",
+        "name": "Elizabeth Hill",
+        "grade": "B"
+      },
+      {
+        "student_id": "1ba2451d-ea8a-4622-a7a8-987ecb27ae0a",
+        "name": "Keith Guerrero",
+        "grade": "A"
+      },
+      {
+        "student_id": "62548b2e-4318-4d3a-b18a-3f0ca2d05795",
+        "name": "Kyle Livingston",
+        "grade": "A"
+      },
+      {
+        "student_id": "f3682376-6b76-4aba-a059-884d8ea08bd8",
+        "name": "Cheryl Ramirez",
+        "grade": "A"
+      },
+      {
+        "student_id": "e2723671-45bd-4553-a9e8-261b94a14590",
+        "name": "John Hill",
+        "grade": "B"
+      },
+      {
+        "student_id": "6668264f-7095-4463-85b9-aef4d77371d4",
+        "name": "Lindsey Wilson",
+        "grade": "B"
+      },
+      {
+        "student_id": "a495c7a1-1c94-484a-9e46-db64d4680c0b",
+        "name": "Kimberly Long",
+        "grade": "A"
+      },
+      {
+        "student_id": "e513b037-3292-4a81-a29b-cf32d1a95552",
+        "name": "Christine Glover",
+        "grade": "C"
+      },
+      {
+        "student_id": "ea5fa2c5-99d6-44d2-8802-9d22160cd42a",
+        "name": "Edward Myers",
+        "grade": "B"
+      },
+      {
+        "student_id": "f4f677f1-e8cb-42e5-bdf0-9311fb8172ad",
+        "name": "Kyle Bennett",
+        "grade": "B"
+      },
+      {
+        "student_id": "417de464-67b8-4d3d-a4e0-1301a7773516",
+        "name": "Travis Thomas",
+        "grade": "A"
+      },
+      {
+        "student_id": "29585e43-119a-412a-86ef-e67eaf73359c",
+        "name": "Heather Sullivan",
+        "grade": "C"
+      },
+      {
+        "student_id": "1b40bca9-5bce-4ee6-8786-249244da7a1a",
+        "name": "Michelle Butler",
+        "grade": "C"
+      },
+      {
+        "student_id": "631a85fc-a527-4ee4-9ee8-ee5810812892",
+        "name": "John Castro",
+        "grade": "C"
+      },
+      {
+        "student_id": "a79ab3db-7145-482d-97e1-15620a06b256",
+        "name": "Derrick Roberson",
+        "grade": "C"
+      },
+      {
+        "student_id": "ec23a6a7-0aa5-41eb-b420-5bd108c7c836",
+        "name": "Rachel Bush",
+        "grade": "C"
+      },
+      {
+        "student_id": "234c3308-1cd2-48c6-afd2-321c0f26feba",
+        "name": "Joshua Wright",
+        "grade": "C"
+      },
+      {
+        "student_id": "d4a21fdf-84b6-470f-9b5c-5fb7745592cd",
+        "name": "Sylvia Barry",
+        "grade": "B"
+      },
+      {
+        "student_id": "640d7d61-100c-420f-a45c-053b4570259e",
+        "name": "Jeffrey Young",
+        "grade": "C"
+      },
+      {
+        "student_id": "d02c862a-c66f-434a-a850-1e9baccb09a2",
+        "name": "Jaime Norman",
+        "grade": "C"
+      },
+      {
+        "student_id": "c8481e26-c0ee-4365-9f68-534e9e887991",
+        "name": "Joanna Foster",
+        "grade": "A"
+      },
+      {
+        "student_id": "819efcd1-1bce-4bd6-8142-78cdae3553de",
+        "name": "Courtney King",
+        "grade": "C"
+      },
+      {
+        "student_id": "32b04e10-c81e-48f8-9463-ad8957a53ac0",
+        "name": "Victoria Johnson",
+        "grade": "A"
+      },
+      {
+        "student_id": "9b7906f5-1777-4431-a066-b0c1463dc738",
+        "name": "Megan Pratt",
+        "grade": "B"
+      },
+      {
+        "student_id": "c0bac0d2-f9e1-4532-954d-48ebc949e9a5",
+        "name": "Larry Anderson",
+        "grade": "A"
+      },
+      {
+        "student_id": "09a4e01b-bca9-4bb6-96a9-53d141f63e7e",
+        "name": "Dr. Carla Washington",
+        "grade": "B"
+      },
+      {
+        "student_id": "7ed0ea35-69f7-47ca-8d4e-948b4bd1f880",
+        "name": "Michael Johnson",
+        "grade": "C"
+      },
+      {
+        "student_id": "126a89b4-075c-4e9e-ad8c-2509ab193806",
+        "name": "Tina Travis",
+        "grade": "C"
+      },
+      {
+        "student_id": "7e087024-6b52-453a-93aa-61d21a1e0f29",
+        "name": "Christina Thomas",
+        "grade": "B"
+      },
+      {
+        "student_id": "7f252fba-3cfc-4a5e-829b-925ffd110d28",
+        "name": "Holly Roth",
+        "grade": "A"
+      },
+      {
+        "student_id": "7c38ade7-c96e-439d-8e49-94c617e17328",
+        "name": "Aaron White",
+        "grade": "A"
+      },
+      {
+        "student_id": "c331fb1b-6823-46b6-9f2d-bb1291b462fc",
+        "name": "Jacob Briggs",
+        "grade": "A"
+      },
+      {
+        "student_id": "7e3c1761-3164-4d28-8410-3931c69deb69",
+        "name": "Carla Barker",
+        "grade": "A"
+      },
+      {
+        "student_id": "ae79caa3-6f56-4f95-806d-1b7866d08e1e",
+        "name": "Audrey Weaver",
+        "grade": "C"
+      },
+      {
+        "student_id": "9378cd15-4758-4f06-a354-6a583fb4d107",
+        "name": "Sandra Miller",
+        "grade": "C"
+      },
+      {
+        "student_id": "349038ca-7e74-4dd9-b8c2-2ad378f86fc0",
+        "name": "Michael Ford",
+        "grade": "A"
+      },
+      {
+        "student_id": "5035f5b3-3009-42d7-b984-2a3f77144b37",
+        "name": "Tyler Harrison",
+        "grade": "C"
+      },
+      {
+        "student_id": "262145aa-cc54-47b9-bd52-a3cd6b4e5b04",
+        "name": "Judy Miller",
+        "grade": "B"
+      },
+      {
+        "student_id": "a685897a-a594-4761-8c6f-534127d313a3",
+        "name": "Sabrina Johnson",
+        "grade": "B"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "cb6d5cae-5f29-4e73-af4d-d2085e04c783",
+        "name": "Brian Garcia",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "2ff41ca9-f759-4844-90cc-526bef0f523f",
+        "name": "Belinda Sanchez",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "d376557c-c1ff-40dd-a793-c230b5fe7d9c",
+        "name": "Jennifer Wilkins",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "8ecd79f3-57e8-47e4-97bd-2891056112d4",
+        "name": "David Haley",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "afbeb7f6-baf7-498d-b555-f5a74cfa235c",
+        "name": "Larry Bautista",
+        "subject": "Science"
+      }
+    ],
+    "facilities": {
+      "classrooms": 10,
+      "gymnasium": true,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Carroll Group",
+    "location": {
+      "city": "Lake Rebeccaville",
+      "state": "North Dakota",
+      "zipcode": "72172"
+    },
+    "students": [
+      {
+        "student_id": "50e631db-e952-4842-aec3-3015ec9b23db",
+        "name": "Kelsey Wood",
+        "grade": "B"
+      },
+      {
+        "student_id": "627cd771-eb9b-441f-8e8d-0daebc98c0eb",
+        "name": "Kelsey Bentley",
+        "grade": "A"
+      },
+      {
+        "student_id": "cbf16149-b83c-443a-8f2c-1a6ed7f41a65",
+        "name": "Eugene Fisher",
+        "grade": "B"
+      },
+      {
+        "student_id": "a8b930c8-6d1d-42a2-97db-4a5e87ee557e",
+        "name": "Julie Mcpherson",
+        "grade": "A"
+      },
+      {
+        "student_id": "183359c3-b898-42b4-a032-7c7712c20730",
+        "name": "John Walters",
+        "grade": "B"
+      },
+      {
+        "student_id": "0f7e866e-8f48-4465-9747-4d81a448dea9",
+        "name": "Sharon Lopez",
+        "grade": "A"
+      },
+      {
+        "student_id": "8507018b-42cb-4634-9ed8-27645cd7a078",
+        "name": "Dana Fischer",
+        "grade": "C"
+      },
+      {
+        "student_id": "d7da32a4-a1bc-491d-929f-e526f4909c3e",
+        "name": "Rebecca Hunt",
+        "grade": "B"
+      },
+      {
+        "student_id": "d3e1961f-2962-4bb4-b6b2-1581238b945f",
+        "name": "James Rodriguez",
+        "grade": "A"
+      },
+      {
+        "student_id": "817f6678-de08-44ef-a96f-98567414d8b5",
+        "name": "Cathy Christensen",
+        "grade": "B"
+      },
+      {
+        "student_id": "e78e2093-6d7a-4b50-b9f1-3dbd3583b646",
+        "name": "Damon Jones",
+        "grade": "A"
+      },
+      {
+        "student_id": "580c6309-9c20-46a1-adfa-452bfeb6d880",
+        "name": "Marc Hansen",
+        "grade": "B"
+      },
+      {
+        "student_id": "09c775dc-c6c8-4d41-ae29-6aa2dd35eec6",
+        "name": "Brandi West",
+        "grade": "A"
+      },
+      {
+        "student_id": "c5a9f3f1-c489-4d7b-b7d7-412cca11bd01",
+        "name": "Daniel Gordon",
+        "grade": "B"
+      },
+      {
+        "student_id": "332b94c6-8007-470e-a1fb-a9e5452b8445",
+        "name": "Thomas Lamb",
+        "grade": "C"
+      },
+      {
+        "student_id": "39d0b316-c1e2-4600-a705-f81ef0b177f1",
+        "name": "Gregory Gilbert",
+        "grade": "A"
+      },
+      {
+        "student_id": "bc744182-c380-4ff3-b47e-a0b1169cf5f3",
+        "name": "Beth Wolfe",
+        "grade": "B"
+      },
+      {
+        "student_id": "cbcf2a09-c597-4541-851e-294e1e22fac4",
+        "name": "Cody Lucas",
+        "grade": "C"
+      },
+      {
+        "student_id": "9e666794-5063-4013-859c-c70c54f57f62",
+        "name": "Cheryl Walker",
+        "grade": "B"
+      },
+      {
+        "student_id": "1cbcd6c2-8891-4551-abd5-c32abfa2ec05",
+        "name": "William Pruitt",
+        "grade": "C"
+      },
+      {
+        "student_id": "8ff78577-da4e-4498-8165-795f5586628d",
+        "name": "Mr. Justin Galvan",
+        "grade": "A"
+      },
+      {
+        "student_id": "9e52c906-ecd2-4fcd-af34-ca3a74612fe5",
+        "name": "Sarah Mckenzie",
+        "grade": "B"
+      },
+      {
+        "student_id": "5f7c7b0c-84cc-48d9-a473-c66aa0d59536",
+        "name": "William Love MD",
+        "grade": "C"
+      },
+      {
+        "student_id": "b54e2e48-3f5e-42e9-97d4-84f4233dd8b1",
+        "name": "Jordan Mason",
+        "grade": "C"
+      },
+      {
+        "student_id": "e95f263f-5bd4-41ac-9e52-dc6091fe62dd",
+        "name": "Teresa Wood",
+        "grade": "B"
+      },
+      {
+        "student_id": "10456e25-9421-427f-8ade-c5f87e7bb538",
+        "name": "Juan Williams",
+        "grade": "C"
+      },
+      {
+        "student_id": "3fcdb16b-a18c-437d-bfba-58ab334a8db0",
+        "name": "Michelle Robinson",
+        "grade": "C"
+      },
+      {
+        "student_id": "b223fcf9-ffc3-469c-8aad-7982e70ef2e0",
+        "name": "Amber Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "8fe97a48-8cb1-4ab1-8399-c89672e91141",
+        "name": "Jessica Arellano",
+        "grade": "B"
+      },
+      {
+        "student_id": "5d07698d-368b-4e19-bd63-33acb5d70238",
+        "name": "David Green",
+        "grade": "B"
+      },
+      {
+        "student_id": "1db85a34-60c6-4d9a-a738-3214b8bc4845",
+        "name": "Javier Johnson",
+        "grade": "B"
+      },
+      {
+        "student_id": "c7c66a07-8d5d-4a8f-9a85-537a3afba712",
+        "name": "April Gutierrez",
+        "grade": "C"
+      },
+      {
+        "student_id": "13ba5932-0728-4a8b-97ad-863cd3fede57",
+        "name": "Stephanie Leblanc",
+        "grade": "B"
+      },
+      {
+        "student_id": "3dcc9257-34d6-4ec1-bebb-17056681a6eb",
+        "name": "Anthony Jackson",
+        "grade": "A"
+      },
+      {
+        "student_id": "9ec28272-3b1b-4b23-9ed0-19bde360639a",
+        "name": "Kristen Woodward",
+        "grade": "A"
+      },
+      {
+        "student_id": "05f44481-c5f1-4d7d-b50c-126a64144983",
+        "name": "Jeffrey Walker",
+        "grade": "C"
+      },
+      {
+        "student_id": "c3023e6a-e7b8-4235-902f-01c18f8970bd",
+        "name": "Patrick Shelton",
+        "grade": "B"
+      },
+      {
+        "student_id": "90419cd0-7be0-4d3e-a340-a1d3139f4939",
+        "name": "Nathan Mitchell",
+        "grade": "A"
+      },
+      {
+        "student_id": "333f170e-1006-4930-aa54-08ce1b5ed5c7",
+        "name": "Angela Grimes",
+        "grade": "A"
+      },
+      {
+        "student_id": "48133af6-1d14-4a4b-8c06-9e75c19c5360",
+        "name": "Joseph Phillips",
+        "grade": "C"
+      },
+      {
+        "student_id": "d07ca13f-4731-430d-8196-a07de9584086",
+        "name": "Jimmy Romero",
+        "grade": "C"
+      },
+      {
+        "student_id": "babd0355-b385-4614-be5d-a28193e84ea7",
+        "name": "Connie Smith",
+        "grade": "C"
+      },
+      {
+        "student_id": "c47dd0c5-c8db-4eb9-a09d-5785bfbf7d59",
+        "name": "Valerie Ray",
+        "grade": "A"
+      },
+      {
+        "student_id": "6e7e3a55-a6a8-4b79-8ee1-ac5d68eb7176",
+        "name": "Laura Clark",
+        "grade": "B"
+      },
+      {
+        "student_id": "ff2f516b-3ba5-409c-bb0f-b30df7f030c1",
+        "name": "Shelly Riddle",
+        "grade": "B"
+      },
+      {
+        "student_id": "d7fe81b9-fa5c-4383-94c5-2725fbc9d955",
+        "name": "Jeffrey Chapman",
+        "grade": "A"
+      },
+      {
+        "student_id": "dc7e80ad-dcee-4a9f-b095-5ba8ec72458c",
+        "name": "Jay Morales",
+        "grade": "C"
+      },
+      {
+        "student_id": "520ff9f3-1dce-4c25-af33-d95618c15968",
+        "name": "Sean Byrd",
+        "grade": "C"
+      },
+      {
+        "student_id": "c7a96fd5-07e0-4383-9279-35b97c0a56fc",
+        "name": "Richard Lyons",
+        "grade": "B"
+      },
+      {
+        "student_id": "71d611b2-3e37-4018-bfde-fb6917c93986",
+        "name": "Jordan Moody",
+        "grade": "C"
+      },
+      {
+        "student_id": "594005bb-97b9-47d5-b5c3-a4b8bc57d9c6",
+        "name": "Mark Shields",
+        "grade": "B"
+      },
+      {
+        "student_id": "661d4ba8-bafb-4b84-91bb-cf58cc511ae9",
+        "name": "Mary Dixon",
+        "grade": "B"
+      },
+      {
+        "student_id": "f2c6329b-ecd8-41aa-a853-40fcc45506c6",
+        "name": "Paula Obrien",
+        "grade": "B"
+      },
+      {
+        "student_id": "c5cb82a6-59f2-47b1-b416-695e968fedf0",
+        "name": "Michael Blair",
+        "grade": "C"
+      },
+      {
+        "student_id": "8c5fb510-b1fa-4df4-a5ba-9f484dc74470",
+        "name": "Michael Gamble",
+        "grade": "C"
+      },
+      {
+        "student_id": "b9eaf7e1-ec35-43fa-8711-3da1ebe10f3d",
+        "name": "Sarah Reynolds",
+        "grade": "B"
+      },
+      {
+        "student_id": "fa65da45-425c-4aae-9d52-d8037a0455ec",
+        "name": "Alison Mullins",
+        "grade": "A"
+      },
+      {
+        "student_id": "83b089ff-cb82-4d04-97ff-714e048c3c0b",
+        "name": "Daniel Whitaker",
+        "grade": "B"
+      },
+      {
+        "student_id": "e0f8d6e3-f916-4c90-9dd3-4e02e4759427",
+        "name": "Danny Mccarty",
+        "grade": "B"
+      },
+      {
+        "student_id": "ba9866e0-6a6a-412b-a88d-c6a9e3bbc418",
+        "name": "Jesus Soto",
+        "grade": "A"
+      },
+      {
+        "student_id": "6fa79f42-2672-4bea-b56a-1a169d123acc",
+        "name": "Austin Cook",
+        "grade": "A"
+      },
+      {
+        "student_id": "5173d6fd-71ec-4b10-88a0-720f0aa1d58e",
+        "name": "Shannon Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "428df581-cd03-4280-9606-64719cd9c356",
+        "name": "Julia Stephens DDS",
+        "grade": "A"
+      },
+      {
+        "student_id": "620fc282-fbed-43c4-852b-e8a3860eec02",
+        "name": "Desiree Lee",
+        "grade": "B"
+      },
+      {
+        "student_id": "e159676e-cd5a-467d-9af0-16b721231c49",
+        "name": "John Knapp",
+        "grade": "B"
+      },
+      {
+        "student_id": "89133eb4-26e9-43a6-8c72-d60078aa3d5f",
+        "name": "Alyssa Andrews",
+        "grade": "B"
+      },
+      {
+        "student_id": "c09a1913-fc0d-45b1-a307-2522e9051a24",
+        "name": "Eric Dawson",
+        "grade": "A"
+      },
+      {
+        "student_id": "32e5d44e-d71f-4029-8039-9ca0cfaa89ad",
+        "name": "Stephanie Reed",
+        "grade": "A"
+      },
+      {
+        "student_id": "b4b1e286-8ca5-44eb-adba-38ab518429f8",
+        "name": "Donald Rivas",
+        "grade": "C"
+      },
+      {
+        "student_id": "ba330bce-c884-4f7c-9383-8cf2c55a5290",
+        "name": "Raymond Preston",
+        "grade": "A"
+      },
+      {
+        "student_id": "ef7c1b05-091e-48b5-a863-6429681955aa",
+        "name": "Barbara Holland",
+        "grade": "C"
+      },
+      {
+        "student_id": "83d68fc4-edc2-4f1d-b53e-2d972a148b91",
+        "name": "James Hanson",
+        "grade": "A"
+      },
+      {
+        "student_id": "e3289c64-3258-4495-82ce-3d9ce40ff9a9",
+        "name": "Dr. Ann Kaufman PhD",
+        "grade": "B"
+      },
+      {
+        "student_id": "49a4fe1f-7035-4a05-876b-bb2f5766feb4",
+        "name": "Hannah Taylor",
+        "grade": "B"
+      },
+      {
+        "student_id": "824cc9c4-df88-4396-bfa3-0d9043eaafdd",
+        "name": "Scott Gonzales",
+        "grade": "A"
+      },
+      {
+        "student_id": "2009d7c1-6562-49b0-8395-ff173ff4f275",
+        "name": "Alexandra Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "9d02932d-0fb9-42ac-89b0-63542659163f",
+        "name": "Dr. Leslie Stewart",
+        "grade": "A"
+      },
+      {
+        "student_id": "c3f428e8-9691-4e21-b04e-19ce0b38d0e6",
+        "name": "Richard Ford",
+        "grade": "A"
+      },
+      {
+        "student_id": "2cfda2ab-7f70-4f44-8161-108e784b3627",
+        "name": "Ashley Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "303afa08-8981-4dcf-9828-0c486831c7b7",
+        "name": "Christopher Carlson",
+        "grade": "A"
+      },
+      {
+        "student_id": "d09bfb7f-c245-4f63-8956-c836ee6203ae",
+        "name": "Debbie Dunn",
+        "grade": "B"
+      },
+      {
+        "student_id": "71655848-7a79-43db-9a97-caab0fae460c",
+        "name": "Daniel Henson",
+        "grade": "C"
+      },
+      {
+        "student_id": "0f0bbf6f-3040-4151-83f4-527803aefb4f",
+        "name": "Susan Anderson",
+        "grade": "A"
+      },
+      {
+        "student_id": "8cf95c98-8c99-4aa7-ab7d-b212ea2acdeb",
+        "name": "Evan Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "22b68ef3-67ef-4111-89c7-368ddebc629c",
+        "name": "Karen Graham",
+        "grade": "C"
+      },
+      {
+        "student_id": "6ab5658a-f076-4203-8ff5-6e665a33aa0a",
+        "name": "Dawn Taylor",
+        "grade": "B"
+      },
+      {
+        "student_id": "e23c4290-762d-4d0b-9de1-e3f625a6b3f0",
+        "name": "Michael Sandoval",
+        "grade": "B"
+      },
+      {
+        "student_id": "e106c1e2-89bb-43aa-8bec-7f203f89a888",
+        "name": "Kelly Foster",
+        "grade": "B"
+      },
+      {
+        "student_id": "791be0ae-2c45-45dd-93bf-77b710f0d28b",
+        "name": "Alison Skinner",
+        "grade": "B"
+      },
+      {
+        "student_id": "91e378d4-3fd8-42a5-9b1d-bd9006cf9775",
+        "name": "Nathan Butler",
+        "grade": "B"
+      },
+      {
+        "student_id": "b6d0b830-1404-4715-88be-1ad1dc41696b",
+        "name": "Tyler Long",
+        "grade": "C"
+      },
+      {
+        "student_id": "0377b724-7cd8-47a9-a8b3-fb71595fc53a",
+        "name": "Kathryn Powers",
+        "grade": "B"
+      },
+      {
+        "student_id": "687b01cb-f295-42d7-a50d-ae8c3b9e2499",
+        "name": "Miguel Nelson",
+        "grade": "A"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "b8a97987-4f23-4b90-805f-9d8144ef30f4",
+        "name": "Diamond Perkins",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "359e0792-4d4d-44ab-9d96-001258216792",
+        "name": "Lisa Jordan",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "248669d9-c98c-442f-9f67-0ec7af0e3b1e",
+        "name": "Mark Padilla",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "98fdf942-a83f-47a3-881e-61aa84b012cd",
+        "name": "Mariah Smith",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "6963f5b8-d372-44ca-8e7f-af138bedea25",
+        "name": "Stacey Chen",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "8d7a2326-43a3-494c-aca7-966d14181c27",
+        "name": "John Avila",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "6c12b3c7-9ff9-4a39-898c-c93c2bec27cf",
+        "name": "Zachary Jones",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "fbd92db8-3e42-43ea-a020-7d4d29601a59",
+        "name": "Kirk Serrano",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "8949105e-895b-4e29-8587-75d0d4b618fd",
+        "name": "Lucas Moore",
+        "subject": "Math"
+      }
+    ],
+    "facilities": {
+      "classrooms": 24,
+      "gymnasium": false,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Smith and Sons",
+    "location": {
+      "city": "Cassandraville",
+      "state": "Michigan",
+      "zipcode": "35352"
+    },
+    "students": [
+      {
+        "student_id": "e628d6e5-54a5-44e1-ac1d-2520140368f5",
+        "name": "Travis Meyer",
+        "grade": "B"
+      },
+      {
+        "student_id": "229ff711-3e7e-4911-bb38-8ae1ab8f182e",
+        "name": "Tristan Alexander",
+        "grade": "C"
+      },
+      {
+        "student_id": "73ae9b4e-fe82-45c2-aace-6e749303ba1d",
+        "name": "Eric Sullivan",
+        "grade": "A"
+      },
+      {
+        "student_id": "48e8783e-828d-414b-a254-32225644d49f",
+        "name": "Kevin Shaw",
+        "grade": "A"
+      },
+      {
+        "student_id": "923bea15-b8dd-4d96-a88f-99b5e832e34b",
+        "name": "Erin Ward",
+        "grade": "A"
+      },
+      {
+        "student_id": "f2781842-bff5-41d1-8740-7ac25e3b89ca",
+        "name": "Yesenia Nelson",
+        "grade": "C"
+      },
+      {
+        "student_id": "74c4d4be-2208-4f72-8bc9-3818a49f85b5",
+        "name": "Juan Richards",
+        "grade": "A"
+      },
+      {
+        "student_id": "19c94303-ac84-407d-804b-8c6f9e33317a",
+        "name": "Rachel Price",
+        "grade": "C"
+      },
+      {
+        "student_id": "b9f7a7e7-5d33-4ae3-b866-7c4d0a65e7af",
+        "name": "Brian Grant",
+        "grade": "B"
+      },
+      {
+        "student_id": "3b371515-fbaf-4c67-9095-d3a7b4ee70f6",
+        "name": "Nancy Young",
+        "grade": "A"
+      },
+      {
+        "student_id": "7d33ae9c-4481-4638-bf8b-78e0694daf10",
+        "name": "Tracey King",
+        "grade": "B"
+      },
+      {
+        "student_id": "ec292bad-f9b6-45a7-983e-aefc723b6446",
+        "name": "Richard Fox",
+        "grade": "A"
+      },
+      {
+        "student_id": "37d3dc0d-0610-4744-a945-6dbbea712cd2",
+        "name": "Bobby Montoya",
+        "grade": "B"
+      },
+      {
+        "student_id": "8e1e4d14-f1ce-41b9-9466-d8a4bc09f312",
+        "name": "Carolyn Baker",
+        "grade": "A"
+      },
+      {
+        "student_id": "8759836b-37cf-4147-8463-4aa441603c80",
+        "name": "Brittany Mcintosh",
+        "grade": "C"
+      },
+      {
+        "student_id": "dc67163c-a368-4b37-a7b0-fb205e51cedc",
+        "name": "Jennifer Smith",
+        "grade": "A"
+      },
+      {
+        "student_id": "5a08d0c9-109c-47a7-9357-6105b63788a4",
+        "name": "Cynthia Barker",
+        "grade": "C"
+      },
+      {
+        "student_id": "ef020405-9acd-4994-9633-571566ab58ef",
+        "name": "Shane Hall",
+        "grade": "A"
+      },
+      {
+        "student_id": "f150a5e4-005d-4741-993c-b1819258ea47",
+        "name": "Brandon Simon",
+        "grade": "A"
+      },
+      {
+        "student_id": "77e3fd64-5b61-4239-829b-1863e766e4f5",
+        "name": "Tamara Price",
+        "grade": "C"
+      },
+      {
+        "student_id": "b5943773-5707-430f-a751-36a984fe0b5e",
+        "name": "Melissa Doyle",
+        "grade": "C"
+      },
+      {
+        "student_id": "741155b5-b2c9-41fb-a13b-4f05480e2324",
+        "name": "Candice Berger",
+        "grade": "B"
+      },
+      {
+        "student_id": "afe836d6-cddc-4528-876a-2a9e3ac0b75a",
+        "name": "Chelsea Hart",
+        "grade": "A"
+      },
+      {
+        "student_id": "9fdcd75f-87c3-4129-99fb-d07ccdd6e58f",
+        "name": "Sydney Tucker",
+        "grade": "B"
+      },
+      {
+        "student_id": "a9f8727c-1967-4891-8d91-ffed7272e392",
+        "name": "Ryan Collins",
+        "grade": "B"
+      },
+      {
+        "student_id": "5b39ea8c-7f97-4377-aa2b-780396668b5a",
+        "name": "Teresa Fitzgerald",
+        "grade": "B"
+      },
+      {
+        "student_id": "68c6e3ca-b2c3-4315-a119-2c343ab1a5b2",
+        "name": "Jo Fritz",
+        "grade": "A"
+      },
+      {
+        "student_id": "bb3b7815-2d1a-473e-96cc-fe18ad61a380",
+        "name": "Ian Garcia",
+        "grade": "B"
+      },
+      {
+        "student_id": "08754736-94ab-490f-a876-388745187d86",
+        "name": "Ashley Mcdaniel",
+        "grade": "B"
+      },
+      {
+        "student_id": "befe9aef-e41e-4048-8e22-0741884c1919",
+        "name": "David West",
+        "grade": "C"
+      },
+      {
+        "student_id": "4a3414cc-53bf-455b-807d-b3c2ebdbe483",
+        "name": "Crystal Abbott",
+        "grade": "A"
+      },
+      {
+        "student_id": "06cf3453-82ba-45e5-8465-8b511616cb25",
+        "name": "Susan Carter",
+        "grade": "B"
+      },
+      {
+        "student_id": "c3fc588a-1b4b-48bf-8bb0-a615d02e3fa7",
+        "name": "Anthony Weaver",
+        "grade": "B"
+      },
+      {
+        "student_id": "537ff8fd-7ed0-483c-886d-8dae9aa75f58",
+        "name": "Mark Yoder",
+        "grade": "C"
+      },
+      {
+        "student_id": "02ca9b68-7cfe-4f63-90fe-d2b57e856e12",
+        "name": "James Coleman",
+        "grade": "A"
+      },
+      {
+        "student_id": "5058fa27-de1a-4f4c-9631-bd40eafe8755",
+        "name": "Jeremy Woods",
+        "grade": "B"
+      },
+      {
+        "student_id": "eb56486a-d8b1-4db6-9a2f-f2b9e2c72176",
+        "name": "Teresa Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "3241cb36-47a0-43c5-abe7-c8686fa7a8cf",
+        "name": "Katelyn Stewart",
+        "grade": "B"
+      },
+      {
+        "student_id": "9ccb9646-c8e8-4e92-be7d-581eb6417786",
+        "name": "Sandra Alexander",
+        "grade": "C"
+      },
+      {
+        "student_id": "9a16eaf6-b92d-418f-be4d-2352b15cfece",
+        "name": "Michael Shields",
+        "grade": "C"
+      },
+      {
+        "student_id": "58cbaac9-ff6d-4a88-85c2-32e4d228ddf6",
+        "name": "Jack Smith",
+        "grade": "C"
+      },
+      {
+        "student_id": "4d613478-fad6-4162-9ee8-a02855dd1fd7",
+        "name": "Rebekah Rose",
+        "grade": "C"
+      },
+      {
+        "student_id": "264cf5a9-6ad3-4577-9530-115805291e15",
+        "name": "Alicia Oconnor",
+        "grade": "B"
+      },
+      {
+        "student_id": "da7c5002-7d2d-4f64-8bfc-af01805eb644",
+        "name": "Martin Jackson",
+        "grade": "C"
+      },
+      {
+        "student_id": "0b9ae46f-eca0-4e8e-bdba-dfeb0ab5c129",
+        "name": "Victoria Fisher",
+        "grade": "B"
+      },
+      {
+        "student_id": "0e7ebaa7-8cc1-408b-8731-a4fa4f52bd2a",
+        "name": "Nicholas Davis",
+        "grade": "C"
+      },
+      {
+        "student_id": "88b1ce25-511b-421c-98df-0d1bd56a3f11",
+        "name": "Jay Tate",
+        "grade": "C"
+      },
+      {
+        "student_id": "6164ceb0-a795-444a-9341-f0a7f7092374",
+        "name": "James Strickland",
+        "grade": "B"
+      },
+      {
+        "student_id": "ad22ff87-2370-485f-82a1-6e1859377af9",
+        "name": "Carl Brown",
+        "grade": "C"
+      },
+      {
+        "student_id": "690f3ae5-8a0c-47a0-bd9a-bd234859361b",
+        "name": "Jodi Scott",
+        "grade": "B"
+      },
+      {
+        "student_id": "6365399c-db95-4ff6-bf1c-d9cf453253f9",
+        "name": "William Williamson",
+        "grade": "A"
+      },
+      {
+        "student_id": "90ff8aff-f645-4332-8500-2d5dd18d3d8e",
+        "name": "Jordan Mccall",
+        "grade": "A"
+      },
+      {
+        "student_id": "b1e8e554-95df-4b6f-8f3e-4b9ce4211441",
+        "name": "Anthony Eaton",
+        "grade": "A"
+      },
+      {
+        "student_id": "f47543c7-e9a9-44af-a575-fff0f7e602ac",
+        "name": "Krystal Conway",
+        "grade": "A"
+      },
+      {
+        "student_id": "58b262fd-b2cf-46c9-aee0-8c1e6e9358cc",
+        "name": "Ian Olsen",
+        "grade": "C"
+      },
+      {
+        "student_id": "786598eb-49a3-4e05-b5aa-8c6c7d6a35cd",
+        "name": "John Weeks",
+        "grade": "C"
+      },
+      {
+        "student_id": "21223be8-bb5c-4978-a428-5fca30d92961",
+        "name": "David Hooper",
+        "grade": "B"
+      },
+      {
+        "student_id": "2456f0ae-cdbe-43b3-864d-ca4df6651160",
+        "name": "Matthew Santiago",
+        "grade": "C"
+      },
+      {
+        "student_id": "b9e58eef-927c-4a00-9894-b6d6ccd643af",
+        "name": "Denise Griffin",
+        "grade": "A"
+      },
+      {
+        "student_id": "922e6f22-b882-4da3-9995-59c6b7bb3db9",
+        "name": "Sean Christian",
+        "grade": "A"
+      },
+      {
+        "student_id": "0c642fcb-1096-42ed-80a5-770446a20e96",
+        "name": "Jimmy Lowery",
+        "grade": "B"
+      },
+      {
+        "student_id": "6031c4be-927d-46ea-a34b-feef59b08b1c",
+        "name": "Tiffany Fletcher",
+        "grade": "B"
+      },
+      {
+        "student_id": "e58edc0b-7043-4cfc-a2c3-11f2710bde21",
+        "name": "Jennifer Mcmillan",
+        "grade": "B"
+      },
+      {
+        "student_id": "987ac25e-993b-4e9f-bfba-7cb9794cb47a",
+        "name": "Dr. Stacey Anderson",
+        "grade": "C"
+      },
+      {
+        "student_id": "5f317849-eb3c-49e1-a6cb-3e9afb62fd98",
+        "name": "Ian Aguilar",
+        "grade": "B"
+      },
+      {
+        "student_id": "b27ad27c-c1e6-4a1b-b1a1-50d0762d9d1e",
+        "name": "Jessica Mendez",
+        "grade": "C"
+      },
+      {
+        "student_id": "fd12ec39-f461-487b-aff5-5bb2a1544170",
+        "name": "Alex Mcdonald",
+        "grade": "B"
+      },
+      {
+        "student_id": "a5604a48-e272-4222-a0a6-ecd5bddead21",
+        "name": "Sara Murphy",
+        "grade": "C"
+      },
+      {
+        "student_id": "9eea1181-8855-429d-b68a-5000b47f6dc3",
+        "name": "Jennifer White",
+        "grade": "B"
+      },
+      {
+        "student_id": "cd595680-7518-4a2d-8323-7b0c2e28baca",
+        "name": "Robert Rodriguez",
+        "grade": "A"
+      },
+      {
+        "student_id": "adcdfcca-90e0-4130-b7d8-3e1fb697f037",
+        "name": "Mary Kelley",
+        "grade": "B"
+      },
+      {
+        "student_id": "45dde531-9e5a-4534-8331-3f744dde78db",
+        "name": "Regina Obrien",
+        "grade": "B"
+      },
+      {
+        "student_id": "d764aedb-f495-4a64-b63b-92187e57fbad",
+        "name": "Daniel Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "573f20e0-7d4e-41c6-806c-1dcf6ddd1c31",
+        "name": "David Hall",
+        "grade": "B"
+      },
+      {
+        "student_id": "0045a723-8e9c-4ee9-9655-4c65e837edbb",
+        "name": "James Lucas",
+        "grade": "C"
+      },
+      {
+        "student_id": "5e86e59b-fab1-411a-bd63-824aca037f1a",
+        "name": "Donald Robbins",
+        "grade": "A"
+      },
+      {
+        "student_id": "4c6f0454-45d1-45f4-8cc3-b3503dbed108",
+        "name": "Ashley Patterson",
+        "grade": "A"
+      },
+      {
+        "student_id": "1861afdc-c453-4598-9917-87b2b3b166e4",
+        "name": "Laura Nelson",
+        "grade": "B"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "71d325a3-6bb6-4924-b438-d8464d2d5ea4",
+        "name": "William Freeman",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "15e2c6a0-b88d-4829-83e0-2c3f357c34c1",
+        "name": "Aaron Smith",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "b3d6cff3-2aa7-460c-b993-0b7f645db76e",
+        "name": "Jennifer Edwards",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "b9ab30f8-836f-45d4-a0ad-7395a8025f4c",
+        "name": "Wayne Moreno",
+        "subject": "Math"
+      },
+      {
+        "teacher_id": "99cb0d44-2b59-44ce-a1e8-fb4620413038",
+        "name": "Judith Hill",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "f0d4c950-173f-4e13-afe9-544a9c0b75d9",
+        "name": "Lisa Church",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "4a812359-14b1-4f85-b6ba-f5935350df07",
+        "name": "Cory Gibson",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "533ab9fa-6a76-446c-a0be-3856750806cb",
+        "name": "Sara Sanchez",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "e51dbaea-a0fc-4303-a7a1-99fd86644a1a",
+        "name": "Andrew Olson",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "3aa8badc-9873-443d-8419-675c2b9363d7",
+        "name": "James Bryant",
+        "subject": "English"
+      }
+    ],
+    "facilities": {
+      "classrooms": 17,
+      "gymnasium": true,
+      "library": true
+    }
+  },
+  {
+    "school_name": "Goodman, Wu and Kim",
+    "location": {
+      "city": "North Lisaberg",
+      "state": "Idaho",
+      "zipcode": "00609"
+    },
+    "students": [
+      {
+        "student_id": "9b3979f2-6f5b-4781-bcc1-44f696ee45f1",
+        "name": "Kristie Marshall",
+        "grade": "B"
+      },
+      {
+        "student_id": "3857de55-a48d-4b77-81c2-6d3ff7ad3370",
+        "name": "Joseph Hall",
+        "grade": "A"
+      },
+      {
+        "student_id": "134d0282-bb38-4836-abb3-d1807582deb5",
+        "name": "Billy Diaz",
+        "grade": "C"
+      },
+      {
+        "student_id": "c80bff00-7e39-476f-89ab-ab53eed3315c",
+        "name": "Allison Cooper",
+        "grade": "B"
+      },
+      {
+        "student_id": "744ad9a3-3e26-49e6-8987-7342b30218c0",
+        "name": "Beverly Nicholson",
+        "grade": "C"
+      },
+      {
+        "student_id": "e681fc8b-8b1c-4aff-b9ce-f72dc33447c8",
+        "name": "Ashley Fox",
+        "grade": "C"
+      },
+      {
+        "student_id": "56c70c61-0375-4ba8-8501-b23c01b2b50e",
+        "name": "Derek Wu",
+        "grade": "C"
+      },
+      {
+        "student_id": "97a936ae-0e2a-4108-9e93-19ccbb55f7aa",
+        "name": "Steven Ramirez",
+        "grade": "B"
+      },
+      {
+        "student_id": "9127aec5-8a8f-4e1d-89f5-fc0014f18039",
+        "name": "Anna Morris",
+        "grade": "C"
+      },
+      {
+        "student_id": "b8d0017d-c09e-40b4-a61b-4ebfe932dfc1",
+        "name": "Brian White",
+        "grade": "B"
+      },
+      {
+        "student_id": "5f5291dd-df63-41c5-b793-2ad6847c05ac",
+        "name": "Grace Thomas",
+        "grade": "C"
+      },
+      {
+        "student_id": "2d3a7e9f-040a-4f31-b4d3-5397f45e0238",
+        "name": "Dr. Kimberly Hickman DDS",
+        "grade": "B"
+      },
+      {
+        "student_id": "527eaf6e-dc9f-466a-b004-4485ae75c94d",
+        "name": "Kathy Thomas",
+        "grade": "C"
+      },
+      {
+        "student_id": "1694fd51-59f3-4db7-8c55-c3f81cf62af1",
+        "name": "Scott King",
+        "grade": "A"
+      },
+      {
+        "student_id": "f4021226-cecc-425a-9b3a-c5594e8ada56",
+        "name": "Jennifer Elliott",
+        "grade": "A"
+      },
+      {
+        "student_id": "3de78e07-393c-42d1-9819-b2b9980ad91a",
+        "name": "David Freeman",
+        "grade": "A"
+      },
+      {
+        "student_id": "5bbd4415-0445-4659-813a-8ede4091911c",
+        "name": "Alyssa Christensen",
+        "grade": "B"
+      },
+      {
+        "student_id": "f7a83174-966b-4fa8-9359-ae9648b89738",
+        "name": "Deborah Porter",
+        "grade": "A"
+      },
+      {
+        "student_id": "5941166f-cd80-4a8a-b0e4-a12a32663e13",
+        "name": "Dawn Contreras",
+        "grade": "A"
+      },
+      {
+        "student_id": "39747e42-2078-468c-b153-d7333714ec1c",
+        "name": "Stephanie Booker",
+        "grade": "C"
+      },
+      {
+        "student_id": "2447167d-1cae-46bd-841e-ceab35935910",
+        "name": "Charles Foster",
+        "grade": "C"
+      },
+      {
+        "student_id": "2234ef2e-9cf6-4a96-93fe-393e9c08979c",
+        "name": "Brittany Lee",
+        "grade": "B"
+      },
+      {
+        "student_id": "f41d7a90-08a2-41c1-b2dc-f84dbf881d70",
+        "name": "Dustin Guerrero",
+        "grade": "C"
+      },
+      {
+        "student_id": "1737a942-a6d9-48f3-a7b8-ba161d785ddd",
+        "name": "Juan Bailey",
+        "grade": "B"
+      },
+      {
+        "student_id": "3a863976-9954-4b87-8c50-cfd7d8c45900",
+        "name": "Ashley Parsons",
+        "grade": "A"
+      },
+      {
+        "student_id": "9d2424f9-b9a0-44b4-94b5-4ba4cc5fd061",
+        "name": "Zachary Leblanc",
+        "grade": "A"
+      },
+      {
+        "student_id": "afc8f922-06c1-4f13-879d-3f73ec197989",
+        "name": "Gregory Swanson",
+        "grade": "B"
+      },
+      {
+        "student_id": "1b4d24ba-c029-42cb-813b-5929428f65a2",
+        "name": "Linda Bonilla",
+        "grade": "C"
+      },
+      {
+        "student_id": "1a903ce9-5cd8-4c97-a6a9-3fca10ebf0f5",
+        "name": "Terry Thomas",
+        "grade": "A"
+      },
+      {
+        "student_id": "16f10e4b-0c76-4b2c-a408-f3a498536ba5",
+        "name": "Wayne Smith",
+        "grade": "B"
+      },
+      {
+        "student_id": "32f10f92-f9c7-4226-8fda-edd660339ec2",
+        "name": "Jeffrey Johnson",
+        "grade": "B"
+      },
+      {
+        "student_id": "c59cd1b0-dae6-468e-be5a-59040861e204",
+        "name": "Peter Sharp",
+        "grade": "B"
+      },
+      {
+        "student_id": "57942354-feae-4686-ab8f-d30a62ab16ee",
+        "name": "Abigail Bernard",
+        "grade": "B"
+      },
+      {
+        "student_id": "c15035ea-7f7a-4666-a12c-1a533c10fd33",
+        "name": "Tracy Jennings",
+        "grade": "C"
+      },
+      {
+        "student_id": "8a5afc4a-8d7a-4583-8cc3-4de35807529f",
+        "name": "Cheryl Hanson",
+        "grade": "B"
+      },
+      {
+        "student_id": "56388bbb-eb4f-4a5c-ad0e-8c1e15b9de88",
+        "name": "Carlos Lam",
+        "grade": "A"
+      },
+      {
+        "student_id": "ff0426b5-2527-4b78-ab42-eb74e4a5cc6c",
+        "name": "Lori Howell",
+        "grade": "C"
+      },
+      {
+        "student_id": "5237dfb6-8fa8-4c1c-82e1-a79e285aaf41",
+        "name": "Donald Thomas",
+        "grade": "B"
+      },
+      {
+        "student_id": "aaef837d-c899-4e06-9d91-1d9276be6147",
+        "name": "Robert Moreno",
+        "grade": "C"
+      },
+      {
+        "student_id": "36a0751e-21c0-4f4c-a44f-2cbb1d87bddf",
+        "name": "Sandra May",
+        "grade": "B"
+      },
+      {
+        "student_id": "27faa070-e6d7-42b4-9158-8d949ce38d9a",
+        "name": "Steven Castro",
+        "grade": "B"
+      },
+      {
+        "student_id": "cf6d6141-58b8-4690-8b90-025e0096efd7",
+        "name": "Trevor Cunningham",
+        "grade": "A"
+      },
+      {
+        "student_id": "62c9325e-d50c-46ef-b826-9c7d34a15ce6",
+        "name": "Renee Nichols",
+        "grade": "C"
+      },
+      {
+        "student_id": "ac50dad9-a4c6-419a-b4f1-25e0418239a5",
+        "name": "Sara English",
+        "grade": "A"
+      },
+      {
+        "student_id": "c6eb3aa3-b486-45b1-ae58-feed963cd826",
+        "name": "Brett Howard",
+        "grade": "A"
+      },
+      {
+        "student_id": "eb7b7dc2-4a04-4625-82b4-8c3fb6b78854",
+        "name": "Derek Mcclain",
+        "grade": "A"
+      },
+      {
+        "student_id": "35861aba-edb6-4a59-bca2-6af183085616",
+        "name": "Brandon Williams",
+        "grade": "C"
+      },
+      {
+        "student_id": "88baea9c-48f0-45af-880d-8fef9e76fa0a",
+        "name": "Andre Bullock",
+        "grade": "A"
+      },
+      {
+        "student_id": "e1bead1e-b12a-4cc2-906b-8a1c329cfc51",
+        "name": "Jaime Gonzalez",
+        "grade": "B"
+      },
+      {
+        "student_id": "24d0bee7-bdce-434a-ace0-4d56b48bc656",
+        "name": "George Michael",
+        "grade": "A"
+      },
+      {
+        "student_id": "0340e2b3-f793-45a0-984a-630897d6103f",
+        "name": "Shannon Riley",
+        "grade": "A"
+      },
+      {
+        "student_id": "15071a07-b9f9-4b83-b12c-1b4f88eda14e",
+        "name": "Matthew Maynard",
+        "grade": "A"
+      },
+      {
+        "student_id": "27c26e12-acfa-47d2-8707-3d1cf4257483",
+        "name": "Ariel Anderson",
+        "grade": "C"
+      },
+      {
+        "student_id": "531d88e5-f144-4e8e-9fff-c29cc708e2dc",
+        "name": "Jessica Buchanan",
+        "grade": "B"
+      }
+    ],
+    "teachers": [
+      {
+        "teacher_id": "fea46bae-7340-46ab-87c0-9a5fa654c20e",
+        "name": "Jessica Silva",
+        "subject": "Science"
+      },
+      {
+        "teacher_id": "3f589be3-2c1f-4228-bc79-ef487b23a34d",
+        "name": "Thomas Deleon",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "7569e382-af1c-46b4-8e09-cb4de134f389",
+        "name": "Timothy Johnson DDS",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "140f208d-099b-42e4-ba85-4be5d2be8f2d",
+        "name": "Ashley Dalton",
+        "subject": "English"
+      },
+      {
+        "teacher_id": "930be5ef-5956-4d81-bc80-55e7a68b6ae0",
+        "name": "David Davila",
+        "subject": "Science"
+      }
+    ],
+    "facilities": {
+      "classrooms": 26,
+      "gymnasium": false,
+      "library": false
+    }
+  }
+]
