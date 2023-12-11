@@ -1,21 +1,2 @@
-{
-    "address": {
-        "street": "Main Street",
-        "zipcode": "12345"
-    },
-    "borough": "Brooklyn",
-    "name": "Brooklyn High School",
-    "students": [
-        {"student_id": "12345", "name": "John Doe", "grade": "A"},
-        {"student_id": "67890", "name": "Jane Smith", "grade": "B"}
-    ],
-    "teachers": [
-        {"teacher_id": "T123", "name": "Mr. Johnson", "subject": "Math"},
-        {"teacher_id": "T456", "name": "Ms. Davis", "subject": "Science"}
-    ],
-    "facilities": {
-        "classrooms": 20,
-        "gymnasium": true,
-        "library": true
-    }
-}
+{"address": { "street": "Main Street","zipcode": "12345"},"borough": "Brooklyn","name": "Brooklyn High School","students": [{"student_id": "12345", "name": "John Doe", "grade": "A"},{"student_id": "67890", "name": "Jane Smith", "grade": "B"}],
+"teachers": [{"teacher_id": "T123", "name": "Mr. Johnson", "subject": "Math"},{"teacher_id": "T456", "name": "Ms. Davis", "subject": "Science"}],"facilities": {"classrooms": 20,"gymnasium": true,"library": true}}
